@@ -1,0 +1,605 @@
+2025-01-22 12:33:18,454 - GeM-Bidding-Data-Log - INFO - GeM Data Capture Service started.
+2025-01-22 12:33:18,506 - GeM-Bidding-Data-Log - INFO - Connected to MongoDB successfully.
+2025-01-22 12:33:22,919 - GeM-Bidding-Data-Log - ERROR - No internet connection: timed out
+2025-01-22 12:33:22,919 - GeM-Bidding-Data-Log - CRITICAL - Please check your internet connection and try again.
+2025-01-22 12:35:52,893 - GeM-Bidding-Data-Log - INFO - GeM Data Capture Service started.
+2025-01-22 12:35:52,934 - GeM-Bidding-Data-Log - INFO - Connected to MongoDB successfully.
+2025-01-22 12:35:54,530 - GeM-Bidding-Data-Log - INFO - Internet Connection Verified Successfully.
+2025-01-22 12:36:10,608 - GeM-Bidding-Data-Log - INFO - Starting the search of {'_id': 'cctv'}
+2025-01-22 12:36:11,502 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2024-B-5766232
+2025-01-22 12:36:14,117 - GeM-Bidding-Data-Log - INFO - Download completed in 1 seconds.
+2025-01-22 12:36:14,120 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-7316105.pdf successfully moved to D:\Tenders\GEM-2024-B-5766232.
+2025-01-22 12:36:14,126 - GeM-Bidding-Data-Log - INFO - Data of GEM-2024-B-5766232 inserted successfully.
+2025-01-22 12:36:14,599 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2024-B-5617121
+2025-01-22 12:36:16,020 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2025-01-22 12:36:16,024 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-7148842.pdf successfully moved to D:\Tenders\GEM-2024-B-5617121.
+2025-01-22 12:36:16,028 - GeM-Bidding-Data-Log - INFO - Data of GEM-2024-B-5617121 inserted successfully.
+2025-01-22 12:36:16,435 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2024-B-5761685
+2025-01-22 12:36:18,837 - GeM-Bidding-Data-Log - INFO - Download completed in 1 seconds.
+2025-01-22 12:36:18,842 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-7310948.pdf successfully moved to D:\Tenders\GEM-2024-B-5761685.
+2025-01-22 12:36:18,843 - GeM-Bidding-Data-Log - INFO - Data of GEM-2024-B-5761685 inserted successfully.
+2025-01-22 12:36:19,183 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2024-B-5690248
+2025-01-22 12:36:21,686 - GeM-Bidding-Data-Log - INFO - Download completed in 1 seconds.
+2025-01-22 12:36:21,686 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-7230711.pdf successfully moved to D:\Tenders\GEM-2024-B-5690248.
+2025-01-22 12:36:21,688 - GeM-Bidding-Data-Log - INFO - Data of GEM-2024-B-5690248 inserted successfully.
+2025-01-22 12:36:22,113 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2024-B-5735615
+2025-01-22 12:36:23,479 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2025-01-22 12:36:23,482 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-7281294.pdf successfully moved to D:\Tenders\GEM-2024-B-5735615.
+2025-01-22 12:36:23,488 - GeM-Bidding-Data-Log - INFO - Data of GEM-2024-B-5735615 inserted successfully.
+2025-01-22 12:36:23,665 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2024-B-5762059
+2025-01-22 12:36:25,983 - GeM-Bidding-Data-Log - INFO - Download completed in 1 seconds.
+2025-01-22 12:36:25,987 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-7311427.pdf successfully moved to D:\Tenders\GEM-2024-B-5762059.
+2025-01-22 12:36:25,991 - GeM-Bidding-Data-Log - INFO - Data of GEM-2024-B-5762059 inserted successfully.
+2025-01-22 12:36:26,436 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2024-B-5769785
+2025-01-22 12:36:27,849 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2025-01-22 12:36:27,850 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-7320018.pdf successfully moved to D:\Tenders\GEM-2024-B-5769785.
+2025-01-22 12:36:27,851 - GeM-Bidding-Data-Log - INFO - Data of GEM-2024-B-5769785 inserted successfully.
+2025-01-22 12:36:28,192 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2025-B-5789562
+2025-01-22 12:36:29,506 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2025-01-22 12:36:29,508 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-7342655.pdf successfully moved to D:\Tenders\GEM-2025-B-5789562.
+2025-01-22 12:36:29,511 - GeM-Bidding-Data-Log - INFO - Data of GEM-2025-B-5789562 inserted successfully.
+2025-01-22 12:36:30,223 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2025-B-5776434
+2025-01-22 12:36:33,615 - GeM-Bidding-Data-Log - INFO - Download completed in 2 seconds.
+2025-01-22 12:36:33,618 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-7327447.pdf successfully moved to D:\Tenders\GEM-2025-B-5776434.
+2025-01-22 12:36:33,622 - GeM-Bidding-Data-Log - INFO - Data of GEM-2025-B-5776434 inserted successfully.
+2025-01-22 12:36:36,780 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2025-B-5772857
+2025-01-22 12:36:38,123 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2025-01-22 12:36:38,126 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-7323373.pdf successfully moved to D:\Tenders\GEM-2025-B-5772857.
+2025-01-22 12:36:38,130 - GeM-Bidding-Data-Log - INFO - Data of GEM-2025-B-5772857 inserted successfully.
+2025-01-22 12:36:39,237 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2025-B-5811410
+2025-01-22 12:36:40,594 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2025-01-22 12:36:40,597 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-7367054.pdf successfully moved to D:\Tenders\GEM-2025-B-5811410.
+2025-01-22 12:36:40,601 - GeM-Bidding-Data-Log - INFO - Data of GEM-2025-B-5811410 inserted successfully.
+2025-01-22 12:36:40,897 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2025-B-5771870
+2025-01-22 12:36:42,178 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2025-01-22 12:36:42,181 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-7322247.pdf successfully moved to D:\Tenders\GEM-2025-B-5771870.
+2025-01-22 12:36:42,185 - GeM-Bidding-Data-Log - INFO - Data of GEM-2025-B-5771870 inserted successfully.
+2025-01-22 12:36:42,469 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2024-B-5746333
+2025-01-22 12:36:43,790 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2025-01-22 12:36:43,795 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-7293600.pdf successfully moved to D:\Tenders\GEM-2024-B-5746333.
+2025-01-22 12:36:43,801 - GeM-Bidding-Data-Log - INFO - Data of GEM-2024-B-5746333 inserted successfully.
+2025-01-22 12:36:44,131 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2024-B-5459095
+2025-01-22 12:36:45,407 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2025-01-22 12:36:45,408 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-6971395.pdf successfully moved to D:\Tenders\GEM-2024-B-5459095.
+2025-01-22 12:36:45,408 - GeM-Bidding-Data-Log - INFO - Data of GEM-2024-B-5459095 inserted successfully.
+2025-01-22 12:36:48,337 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2024-B-5485829
+2025-01-22 12:36:50,711 - GeM-Bidding-Data-Log - INFO - Download completed in 1 seconds.
+2025-01-22 12:36:50,716 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-7001222.pdf successfully moved to D:\Tenders\GEM-2024-B-5485829.
+2025-01-22 12:36:50,721 - GeM-Bidding-Data-Log - INFO - Data of GEM-2024-B-5485829 inserted successfully.
+2025-01-22 12:36:50,942 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2024-B-5758726
+2025-01-22 12:36:53,246 - GeM-Bidding-Data-Log - INFO - Download completed in 1 seconds.
+2025-01-22 12:36:53,247 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-7307680.pdf successfully moved to D:\Tenders\GEM-2024-B-5758726.
+2025-01-22 12:36:53,248 - GeM-Bidding-Data-Log - INFO - Data of GEM-2024-B-5758726 inserted successfully.
+2025-01-22 12:36:56,395 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2024-B-5744108
+2025-01-22 12:37:04,814 - GeM-Bidding-Data-Log - INFO - Download completed in 7 seconds.
+2025-01-22 12:37:04,815 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-7291053.pdf successfully moved to D:\Tenders\GEM-2024-B-5744108.
+2025-01-22 12:37:04,817 - GeM-Bidding-Data-Log - INFO - Data of GEM-2024-B-5744108 inserted successfully.
+2025-01-22 12:37:05,200 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2025-B-5771313
+2025-01-22 12:37:06,532 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2025-01-22 12:37:06,533 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-7321623.pdf successfully moved to D:\Tenders\GEM-2025-B-5771313.
+2025-01-22 12:37:06,534 - GeM-Bidding-Data-Log - INFO - Data of GEM-2025-B-5771313 inserted successfully.
+2025-01-22 12:37:06,892 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2024-B-5702184
+2025-01-22 12:37:08,254 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2025-01-22 12:37:08,259 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-7243804.pdf successfully moved to D:\Tenders\GEM-2024-B-5702184.
+2025-01-22 12:37:08,263 - GeM-Bidding-Data-Log - INFO - Data of GEM-2024-B-5702184 inserted successfully.
+2025-01-22 12:37:08,598 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2025-B-5794055
+2025-01-22 12:37:09,932 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2025-01-22 12:37:09,934 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-7347722.pdf successfully moved to D:\Tenders\GEM-2025-B-5794055.
+2025-01-22 12:37:09,935 - GeM-Bidding-Data-Log - INFO - Data of GEM-2025-B-5794055 inserted successfully.
+2025-01-22 12:37:13,738 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2025-B-5794055
+2025-01-22 12:37:13,795 - GeM-Bidding-Data-Log - INFO - Record Already Exists in Database.
+2025-01-22 12:37:16,670 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2024-B-5754542
+2025-01-22 12:37:18,149 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2025-01-22 12:37:18,153 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-7302849.pdf successfully moved to D:\Tenders\GEM-2024-B-5754542.
+2025-01-22 12:37:18,158 - GeM-Bidding-Data-Log - INFO - Data of GEM-2024-B-5754542 inserted successfully.
+2025-01-22 12:37:18,531 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2025-B-5779530
+2025-01-22 12:37:19,919 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2025-01-22 12:37:19,924 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-7330998.pdf successfully moved to D:\Tenders\GEM-2025-B-5779530.
+2025-01-22 12:37:19,929 - GeM-Bidding-Data-Log - INFO - Data of GEM-2025-B-5779530 inserted successfully.
+2025-01-22 12:37:20,243 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2025-B-5797776
+2025-01-22 12:37:21,657 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2025-01-22 12:37:21,658 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-7351906.pdf successfully moved to D:\Tenders\GEM-2025-B-5797776.
+2025-01-22 12:37:21,659 - GeM-Bidding-Data-Log - INFO - Data of GEM-2025-B-5797776 inserted successfully.
+2025-01-22 12:37:22,026 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2024-B-5752409
+2025-01-22 12:37:23,366 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2025-01-22 12:37:23,366 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-7300431.pdf successfully moved to D:\Tenders\GEM-2024-B-5752409.
+2025-01-22 12:37:23,367 - GeM-Bidding-Data-Log - INFO - Data of GEM-2024-B-5752409 inserted successfully.
+2025-01-22 12:37:23,655 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2025-B-5775328
+2025-01-22 12:37:25,058 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2025-01-22 12:37:25,059 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-7326210.pdf successfully moved to D:\Tenders\GEM-2025-B-5775328.
+2025-01-22 12:37:25,060 - GeM-Bidding-Data-Log - INFO - Data of GEM-2025-B-5775328 inserted successfully.
+2025-01-22 12:37:25,504 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2025-B-5775414
+2025-01-22 12:37:26,845 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2025-01-22 12:37:26,846 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-7326313.pdf successfully moved to D:\Tenders\GEM-2025-B-5775414.
+2025-01-22 12:37:26,849 - GeM-Bidding-Data-Log - INFO - Data of GEM-2025-B-5775414 inserted successfully.
+2025-01-22 12:37:27,340 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2024-B-5631397
+2025-01-22 12:37:28,772 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2025-01-22 12:37:28,774 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-7164915.pdf successfully moved to D:\Tenders\GEM-2024-B-5631397.
+2025-01-22 12:37:28,777 - GeM-Bidding-Data-Log - INFO - Data of GEM-2024-B-5631397 inserted successfully.
+2025-01-22 12:37:32,274 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2025-01-22 12:37:32,280 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-Corr-7164915-4.pdf moved to D:\Tenders\GEM-2024-B-5631397.
+2025-01-22 12:37:33,721 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2025-01-22 12:37:33,728 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-Corr-7164915-3.pdf moved to D:\Tenders\GEM-2024-B-5631397.
+2025-01-22 12:37:34,607 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2025-B-5775836
+2025-01-22 12:37:35,996 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2025-01-22 12:37:35,997 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-7326790.pdf successfully moved to D:\Tenders\GEM-2025-B-5775836.
+2025-01-22 12:37:35,998 - GeM-Bidding-Data-Log - INFO - Data of GEM-2025-B-5775836 inserted successfully.
+2025-01-22 12:37:36,307 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2025-B-5775481
+2025-01-22 12:37:37,743 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2025-01-22 12:37:37,745 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-7326393.pdf successfully moved to D:\Tenders\GEM-2025-B-5775481.
+2025-01-22 12:37:37,747 - GeM-Bidding-Data-Log - INFO - Data of GEM-2025-B-5775481 inserted successfully.
+2025-01-22 12:37:41,081 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2025-B-5775693
+2025-01-22 12:37:42,493 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2025-01-22 12:37:42,498 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-7326635.pdf successfully moved to D:\Tenders\GEM-2025-B-5775693.
+2025-01-22 12:37:42,500 - GeM-Bidding-Data-Log - INFO - Data of GEM-2025-B-5775693 inserted successfully.
+2025-01-22 12:37:42,828 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2024-B-5741881
+2025-01-22 12:37:44,191 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2025-01-22 12:37:44,193 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-7288527.pdf successfully moved to D:\Tenders\GEM-2024-B-5741881.
+2025-01-22 12:37:44,194 - GeM-Bidding-Data-Log - INFO - Data of GEM-2024-B-5741881 inserted successfully.
+2025-01-22 12:37:44,411 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2024-B-5624103
+2025-01-22 12:37:45,925 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2025-01-22 12:37:46,029 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-7156796.pdf successfully moved to D:\Tenders\GEM-2024-B-5624103.
+2025-01-22 12:37:46,033 - GeM-Bidding-Data-Log - INFO - Data of GEM-2024-B-5624103 inserted successfully.
+2025-01-22 12:37:46,225 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2025-B-5787982
+2025-01-22 12:37:47,585 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2025-01-22 12:37:47,595 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-7340807.pdf successfully moved to D:\Tenders\GEM-2025-B-5787982.
+2025-01-22 12:37:47,599 - GeM-Bidding-Data-Log - INFO - Data of GEM-2025-B-5787982 inserted successfully.
+2025-01-22 12:37:52,345 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2024-B-5704779
+2025-01-22 12:37:53,784 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2025-01-22 12:37:53,786 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-7246636.pdf successfully moved to D:\Tenders\GEM-2024-B-5704779.
+2025-01-22 12:37:53,787 - GeM-Bidding-Data-Log - INFO - Data of GEM-2024-B-5704779 inserted successfully.
+2025-01-22 12:37:54,158 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2024-B-5697284
+2025-01-22 12:37:55,524 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2025-01-22 12:37:55,525 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-7238396.pdf successfully moved to D:\Tenders\GEM-2024-B-5697284.
+2025-01-22 12:37:55,526 - GeM-Bidding-Data-Log - INFO - Data of GEM-2024-B-5697284 inserted successfully.
+2025-01-22 12:37:58,529 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2025-B-5815664
+2025-01-22 12:37:59,937 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2025-01-22 12:37:59,942 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-7371898.pdf successfully moved to D:\Tenders\GEM-2025-B-5815664.
+2025-01-22 12:37:59,946 - GeM-Bidding-Data-Log - INFO - Data of GEM-2025-B-5815664 inserted successfully.
+2025-01-22 12:38:00,258 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2025-B-5777129
+2025-01-22 12:38:01,576 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2025-01-22 12:38:01,577 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-7328217.pdf successfully moved to D:\Tenders\GEM-2025-B-5777129.
+2025-01-22 12:38:01,578 - GeM-Bidding-Data-Log - INFO - Data of GEM-2025-B-5777129 inserted successfully.
+2025-01-22 12:38:02,007 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2024-B-5719220
+2025-01-22 12:38:03,387 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2025-01-22 12:38:03,390 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-7263019.pdf successfully moved to D:\Tenders\GEM-2024-B-5719220.
+2025-01-22 12:38:03,395 - GeM-Bidding-Data-Log - INFO - Data of GEM-2024-B-5719220 inserted successfully.
+2025-01-22 12:38:03,722 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2024-B-5674063
+2025-01-22 12:38:05,171 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2025-01-22 12:38:05,172 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-7212573.pdf successfully moved to D:\Tenders\GEM-2024-B-5674063.
+2025-01-22 12:38:05,174 - GeM-Bidding-Data-Log - INFO - Data of GEM-2024-B-5674063 inserted successfully.
+2025-01-22 12:38:09,034 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2025-B-5804936
+2025-01-22 12:38:10,455 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2025-01-22 12:38:10,456 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-7359830.pdf successfully moved to D:\Tenders\GEM-2025-B-5804936.
+2025-01-22 12:38:10,457 - GeM-Bidding-Data-Log - INFO - Data of GEM-2025-B-5804936 inserted successfully.
+2025-01-22 12:38:10,802 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2025-B-5803049
+2025-01-22 12:38:12,624 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2025-01-22 12:38:12,626 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-7357767.pdf successfully moved to D:\Tenders\GEM-2025-B-5803049.
+2025-01-22 12:38:12,629 - GeM-Bidding-Data-Log - INFO - Data of GEM-2025-B-5803049 inserted successfully.
+2025-01-22 12:38:15,763 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2025-B-5796767
+2025-01-22 12:38:17,158 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2025-01-22 12:38:17,161 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-7350798.pdf successfully moved to D:\Tenders\GEM-2025-B-5796767.
+2025-01-22 12:38:17,165 - GeM-Bidding-Data-Log - INFO - Data of GEM-2025-B-5796767 inserted successfully.
+2025-01-22 12:38:20,091 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2025-B-5777853
+2025-01-22 12:38:21,496 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2025-01-22 12:38:21,500 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-7329071.pdf successfully moved to D:\Tenders\GEM-2025-B-5777853.
+2025-01-22 12:38:21,504 - GeM-Bidding-Data-Log - INFO - Data of GEM-2025-B-5777853 inserted successfully.
+2025-01-22 12:38:21,863 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2025-B-5788350
+2025-01-22 12:38:23,212 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2025-01-22 12:38:23,213 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-7341319.pdf successfully moved to D:\Tenders\GEM-2025-B-5788350.
+2025-01-22 12:38:23,214 - GeM-Bidding-Data-Log - INFO - Data of GEM-2025-B-5788350 inserted successfully.
+2025-01-22 12:38:23,469 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2024-B-5656801
+2025-01-22 12:38:24,812 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2025-01-22 12:38:24,815 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-7193097.pdf successfully moved to D:\Tenders\GEM-2024-B-5656801.
+2025-01-22 12:38:24,819 - GeM-Bidding-Data-Log - INFO - Data of GEM-2024-B-5656801 inserted successfully.
+2025-01-22 12:38:27,909 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2024-B-5738421
+2025-01-22 12:38:29,484 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2025-01-22 12:38:29,486 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-7284503.pdf successfully moved to D:\Tenders\GEM-2024-B-5738421.
+2025-01-22 12:38:29,488 - GeM-Bidding-Data-Log - INFO - Data of GEM-2024-B-5738421 inserted successfully.
+2025-01-22 12:38:34,144 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2024-B-5720366
+2025-01-22 12:38:35,589 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2025-01-22 12:38:35,590 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-7264301.pdf successfully moved to D:\Tenders\GEM-2024-B-5720366.
+2025-01-22 12:38:35,591 - GeM-Bidding-Data-Log - INFO - Data of GEM-2024-B-5720366 inserted successfully.
+2025-01-22 12:38:38,377 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2025-B-5816973
+2025-01-22 12:38:39,955 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2025-01-22 12:38:39,956 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-7373385.pdf successfully moved to D:\Tenders\GEM-2025-B-5816973.
+2025-01-22 12:38:39,957 - GeM-Bidding-Data-Log - INFO - Data of GEM-2025-B-5816973 inserted successfully.
+2025-01-22 12:38:40,327 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2025-B-5814125
+2025-01-22 12:38:41,703 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2025-01-22 12:38:41,704 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-7370193.pdf successfully moved to D:\Tenders\GEM-2025-B-5814125.
+2025-01-22 12:38:41,705 - GeM-Bidding-Data-Log - INFO - Data of GEM-2025-B-5814125 inserted successfully.
+2025-01-22 12:38:42,972 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2024-B-5745126
+2025-01-22 12:38:44,555 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2025-01-22 12:38:44,557 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-7292195.pdf successfully moved to D:\Tenders\GEM-2024-B-5745126.
+2025-01-22 12:38:44,558 - GeM-Bidding-Data-Log - INFO - Data of GEM-2024-B-5745126 inserted successfully.
+2025-01-22 12:38:45,040 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2025-B-5778576
+2025-01-22 12:38:46,371 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2025-01-22 12:38:46,372 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-7329911.pdf successfully moved to D:\Tenders\GEM-2025-B-5778576.
+2025-01-22 12:38:46,373 - GeM-Bidding-Data-Log - INFO - Data of GEM-2025-B-5778576 inserted successfully.
+2025-01-22 12:38:46,627 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2024-B-5751580
+2025-01-22 12:38:48,051 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2025-01-22 12:38:48,051 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-7299483.pdf successfully moved to D:\Tenders\GEM-2024-B-5751580.
+2025-01-22 12:38:48,053 - GeM-Bidding-Data-Log - INFO - Data of GEM-2024-B-5751580 inserted successfully.
+2025-01-22 12:38:48,337 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2025-B-5789036
+2025-01-22 12:38:49,733 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2025-01-22 12:38:49,733 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-7342089.pdf successfully moved to D:\Tenders\GEM-2025-B-5789036.
+2025-01-22 12:38:49,734 - GeM-Bidding-Data-Log - INFO - Data of GEM-2025-B-5789036 inserted successfully.
+2025-01-22 12:38:50,020 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2025-B-5777800
+2025-01-22 12:38:51,365 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2025-01-22 12:38:51,366 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-7329010.pdf successfully moved to D:\Tenders\GEM-2025-B-5777800.
+2025-01-22 12:38:51,367 - GeM-Bidding-Data-Log - INFO - Data of GEM-2025-B-5777800 inserted successfully.
+2025-01-22 12:38:51,647 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2025-B-5777821
+2025-01-22 12:38:53,037 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2025-01-22 12:38:53,038 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-7329032.pdf successfully moved to D:\Tenders\GEM-2025-B-5777821.
+2025-01-22 12:38:53,039 - GeM-Bidding-Data-Log - INFO - Data of GEM-2025-B-5777821 inserted successfully.
+2025-01-22 12:38:53,326 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2025-B-5804244
+2025-01-22 12:38:54,666 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2025-01-22 12:38:54,669 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-7359073.pdf successfully moved to D:\Tenders\GEM-2025-B-5804244.
+2025-01-22 12:38:54,674 - GeM-Bidding-Data-Log - INFO - Data of GEM-2025-B-5804244 inserted successfully.
+2025-01-22 12:38:54,969 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2025-B-5772486
+2025-01-22 12:38:56,247 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2025-01-22 12:38:56,251 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-7322961.pdf successfully moved to D:\Tenders\GEM-2025-B-5772486.
+2025-01-22 12:38:56,254 - GeM-Bidding-Data-Log - INFO - Data of GEM-2025-B-5772486 inserted successfully.
+2025-01-22 12:38:56,426 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2025-B-5779398
+2025-01-22 12:38:57,804 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2025-01-22 12:38:57,805 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-7330858.pdf successfully moved to D:\Tenders\GEM-2025-B-5779398.
+2025-01-22 12:38:57,806 - GeM-Bidding-Data-Log - INFO - Data of GEM-2025-B-5779398 inserted successfully.
+2025-01-22 12:38:58,676 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2025-B-5817732
+2025-01-22 12:39:01,074 - GeM-Bidding-Data-Log - INFO - Download completed in 1 seconds.
+2025-01-22 12:39:01,074 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-7374244.pdf successfully moved to D:\Tenders\GEM-2025-B-5817732.
+2025-01-22 12:39:01,076 - GeM-Bidding-Data-Log - INFO - Data of GEM-2025-B-5817732 inserted successfully.
+2025-01-22 12:39:03,384 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2025-B-5818229
+2025-01-22 12:39:04,862 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2025-01-22 12:39:04,863 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-7374804.pdf successfully moved to D:\Tenders\GEM-2025-B-5818229.
+2025-01-22 12:39:04,864 - GeM-Bidding-Data-Log - INFO - Data of GEM-2025-B-5818229 inserted successfully.
+2025-01-22 12:39:05,359 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2024-B-5663670
+2025-01-22 12:39:06,895 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2025-01-22 12:39:06,896 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-7201054.pdf successfully moved to D:\Tenders\GEM-2024-B-5663670.
+2025-01-22 12:39:06,897 - GeM-Bidding-Data-Log - INFO - Data of GEM-2024-B-5663670 inserted successfully.
+2025-01-22 12:39:07,171 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2025-B-5798695
+2025-01-22 12:39:08,730 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2025-01-22 12:39:08,731 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-7352929.pdf successfully moved to D:\Tenders\GEM-2025-B-5798695.
+2025-01-22 12:39:08,732 - GeM-Bidding-Data-Log - INFO - Data of GEM-2025-B-5798695 inserted successfully.
+2025-01-22 12:39:09,443 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2025-B-5799077
+2025-01-22 12:39:11,880 - GeM-Bidding-Data-Log - INFO - Download completed in 1 seconds.
+2025-01-22 12:39:11,894 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-7353346.pdf successfully moved to D:\Tenders\GEM-2025-B-5799077.
+2025-01-22 12:39:11,897 - GeM-Bidding-Data-Log - INFO - Data of GEM-2025-B-5799077 inserted successfully.
+2025-01-22 12:39:12,259 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2025-B-5780048
+2025-01-22 12:39:13,732 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2025-01-22 12:39:13,734 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-7331584.pdf successfully moved to D:\Tenders\GEM-2025-B-5780048.
+2025-01-22 12:39:13,735 - GeM-Bidding-Data-Log - INFO - Data of GEM-2025-B-5780048 inserted successfully.
+2025-01-22 12:39:14,103 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2025-B-5817018
+2025-01-22 12:39:15,493 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2025-01-22 12:39:15,494 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-7373439.pdf successfully moved to D:\Tenders\GEM-2025-B-5817018.
+2025-01-22 12:39:15,495 - GeM-Bidding-Data-Log - INFO - Data of GEM-2025-B-5817018 inserted successfully.
+2025-01-22 12:39:15,918 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2025-B-5776106
+2025-01-22 12:39:17,341 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2025-01-22 12:39:17,342 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-7327089.pdf successfully moved to D:\Tenders\GEM-2025-B-5776106.
+2025-01-22 12:39:17,343 - GeM-Bidding-Data-Log - INFO - Data of GEM-2025-B-5776106 inserted successfully.
+2025-01-22 12:39:17,847 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2024-B-5769769
+2025-01-22 12:39:19,777 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2025-01-22 12:39:19,780 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-7320001.pdf successfully moved to D:\Tenders\GEM-2024-B-5769769.
+2025-01-22 12:39:19,782 - GeM-Bidding-Data-Log - INFO - Data of GEM-2024-B-5769769 inserted successfully.
+2025-01-22 12:39:24,187 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2025-01-22 12:39:24,206 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-Corr-7320001-3.pdf moved to D:\Tenders\GEM-2024-B-5769769.
+2025-01-22 12:39:25,062 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2025-B-5800718
+2025-01-22 12:39:32,389 - GeM-Bidding-Data-Log - INFO - Download completed in 6 seconds.
+2025-01-22 12:39:32,390 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-7355168.pdf successfully moved to D:\Tenders\GEM-2025-B-5800718.
+2025-01-22 12:39:32,392 - GeM-Bidding-Data-Log - INFO - Data of GEM-2025-B-5800718 inserted successfully.
+2025-01-22 12:39:32,770 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2025-B-5818677
+2025-01-22 12:39:34,078 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2025-01-22 12:39:34,079 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-7375295.pdf successfully moved to D:\Tenders\GEM-2025-B-5818677.
+2025-01-22 12:39:34,080 - GeM-Bidding-Data-Log - INFO - Data of GEM-2025-B-5818677 inserted successfully.
+2025-01-22 12:39:35,068 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2025-B-5818662
+2025-01-22 12:39:36,453 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2025-01-22 12:39:36,454 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-7375279.pdf successfully moved to D:\Tenders\GEM-2025-B-5818662.
+2025-01-22 12:39:36,456 - GeM-Bidding-Data-Log - INFO - Data of GEM-2025-B-5818662 inserted successfully.
+2025-01-22 12:39:36,887 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2025-B-5818628
+2025-01-22 12:39:38,486 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2025-01-22 12:39:38,488 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-7375243.pdf successfully moved to D:\Tenders\GEM-2025-B-5818628.
+2025-01-22 12:39:38,489 - GeM-Bidding-Data-Log - INFO - Data of GEM-2025-B-5818628 inserted successfully.
+2025-01-22 12:39:38,891 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2025-B-5819505
+2025-01-22 12:39:40,949 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2025-01-22 12:39:40,950 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-7376203.pdf successfully moved to D:\Tenders\GEM-2025-B-5819505.
+2025-01-22 12:39:40,952 - GeM-Bidding-Data-Log - INFO - Data of GEM-2025-B-5819505 inserted successfully.
+2025-01-22 12:39:41,540 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2025-B-5777604
+2025-01-22 12:39:43,944 - GeM-Bidding-Data-Log - INFO - Download completed in 1 seconds.
+2025-01-22 12:39:43,947 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-7328773.pdf successfully moved to D:\Tenders\GEM-2025-B-5777604.
+2025-01-22 12:39:43,949 - GeM-Bidding-Data-Log - INFO - Data of GEM-2025-B-5777604 inserted successfully.
+2025-01-22 12:39:45,041 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2024-B-5712918
+2025-01-22 12:39:46,486 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2025-01-22 12:39:46,488 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-7255905.pdf successfully moved to D:\Tenders\GEM-2024-B-5712918.
+2025-01-22 12:39:46,489 - GeM-Bidding-Data-Log - INFO - Data of GEM-2024-B-5712918 inserted successfully.
+2025-01-22 12:39:51,153 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2025-01-22 12:39:51,161 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-Corr-7255905-6.pdf moved to D:\Tenders\GEM-2024-B-5712918.
+2025-01-22 12:39:52,995 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2025-01-22 12:39:53,001 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-Corr-7255905-3.pdf moved to D:\Tenders\GEM-2024-B-5712918.
+2025-01-22 12:39:54,123 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2025-B-5819570
+2025-01-22 12:39:55,825 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2025-01-22 12:39:55,826 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-7376273.pdf successfully moved to D:\Tenders\GEM-2025-B-5819570.
+2025-01-22 12:39:55,828 - GeM-Bidding-Data-Log - INFO - Data of GEM-2025-B-5819570 inserted successfully.
+2025-01-22 12:39:56,224 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2025-B-5816333
+2025-01-22 12:39:57,702 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2025-01-22 12:39:57,703 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-7372634.pdf successfully moved to D:\Tenders\GEM-2025-B-5816333.
+2025-01-22 12:39:57,705 - GeM-Bidding-Data-Log - INFO - Data of GEM-2025-B-5816333 inserted successfully.
+2025-01-22 12:39:58,403 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2024-B-5727816
+2025-01-22 12:40:00,842 - GeM-Bidding-Data-Log - INFO - Download completed in 1 seconds.
+2025-01-22 12:40:00,846 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-7272661.pdf successfully moved to D:\Tenders\GEM-2024-B-5727816.
+2025-01-22 12:40:00,848 - GeM-Bidding-Data-Log - INFO - Data of GEM-2024-B-5727816 inserted successfully.
+2025-01-22 12:40:01,161 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2025-B-5778308
+2025-01-22 12:40:04,820 - GeM-Bidding-Data-Log - INFO - Download completed in 2 seconds.
+2025-01-22 12:40:04,821 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-7329596.pdf successfully moved to D:\Tenders\GEM-2025-B-5778308.
+2025-01-22 12:40:04,822 - GeM-Bidding-Data-Log - INFO - Data of GEM-2025-B-5778308 inserted successfully.
+2025-01-22 12:40:05,208 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2025-B-5771380
+2025-01-22 12:40:07,594 - GeM-Bidding-Data-Log - INFO - Download completed in 1 seconds.
+2025-01-22 12:40:07,597 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-7321704.pdf successfully moved to D:\Tenders\GEM-2025-B-5771380.
+2025-01-22 12:40:07,601 - GeM-Bidding-Data-Log - INFO - Data of GEM-2025-B-5771380 inserted successfully.
+2025-01-22 12:40:12,812 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2025-B-5813440
+2025-01-22 12:40:15,146 - GeM-Bidding-Data-Log - INFO - Download completed in 1 seconds.
+2025-01-22 12:40:15,150 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-7369384.pdf successfully moved to D:\Tenders\GEM-2025-B-5813440.
+2025-01-22 12:40:15,155 - GeM-Bidding-Data-Log - INFO - Data of GEM-2025-B-5813440 inserted successfully.
+2025-01-22 12:40:15,809 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2024-B-5766829
+2025-01-22 12:40:18,127 - GeM-Bidding-Data-Log - INFO - Download completed in 1 seconds.
+2025-01-22 12:40:18,132 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-7316797.pdf successfully moved to D:\Tenders\GEM-2024-B-5766829.
+2025-01-22 12:40:18,136 - GeM-Bidding-Data-Log - INFO - Data of GEM-2024-B-5766829 inserted successfully.
+2025-01-22 12:40:22,746 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2025-B-5804211
+2025-01-22 12:40:25,124 - GeM-Bidding-Data-Log - INFO - Download completed in 1 seconds.
+2025-01-22 12:40:25,125 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-7359039.pdf successfully moved to D:\Tenders\GEM-2025-B-5804211.
+2025-01-22 12:40:25,126 - GeM-Bidding-Data-Log - INFO - Data of GEM-2025-B-5804211 inserted successfully.
+2025-01-22 12:40:28,321 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2025-01-22 12:40:28,328 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-Corr-7359039-1.pdf moved to D:\Tenders\GEM-2025-B-5804211.
+2025-01-22 12:40:29,031 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2025-B-5821817
+2025-01-22 12:40:36,366 - GeM-Bidding-Data-Log - INFO - Download completed in 6 seconds.
+2025-01-22 12:40:36,375 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-7378750.pdf successfully moved to D:\Tenders\GEM-2025-B-5821817.
+2025-01-22 12:40:36,378 - GeM-Bidding-Data-Log - INFO - Data of GEM-2025-B-5821817 inserted successfully.
+2025-01-22 12:40:37,924 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2025-B-5822457
+2025-01-22 12:40:40,375 - GeM-Bidding-Data-Log - INFO - Download completed in 1 seconds.
+2025-01-22 12:40:40,376 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-7379465.pdf successfully moved to D:\Tenders\GEM-2025-B-5822457.
+2025-01-22 12:40:40,377 - GeM-Bidding-Data-Log - INFO - Data of GEM-2025-B-5822457 inserted successfully.
+2025-01-22 12:40:40,719 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2025-B-5822512
+2025-01-22 12:40:42,068 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2025-01-22 12:40:42,069 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-7379531.pdf successfully moved to D:\Tenders\GEM-2025-B-5822512.
+2025-01-22 12:40:42,070 - GeM-Bidding-Data-Log - INFO - Data of GEM-2025-B-5822512 inserted successfully.
+2025-01-22 12:40:42,521 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2025-B-5822475
+2025-01-22 12:40:43,968 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2025-01-22 12:40:43,971 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-7379486.pdf successfully moved to D:\Tenders\GEM-2025-B-5822475.
+2025-01-22 12:40:43,975 - GeM-Bidding-Data-Log - INFO - Data of GEM-2025-B-5822475 inserted successfully.
+2025-01-22 12:40:44,270 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2025-B-5782014
+2025-01-22 12:40:45,648 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2025-01-22 12:40:45,649 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-7333942.pdf successfully moved to D:\Tenders\GEM-2025-B-5782014.
+2025-01-22 12:40:45,650 - GeM-Bidding-Data-Log - INFO - Data of GEM-2025-B-5782014 inserted successfully.
+2025-01-22 12:40:45,916 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2024-B-5709179
+2025-01-22 12:40:47,276 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2025-01-22 12:40:47,277 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-7251559.pdf successfully moved to D:\Tenders\GEM-2024-B-5709179.
+2025-01-22 12:40:47,278 - GeM-Bidding-Data-Log - INFO - Data of GEM-2024-B-5709179 inserted successfully.
+2025-01-22 12:40:47,609 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2025-B-5813347
+2025-01-22 12:40:49,058 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2025-01-22 12:40:49,059 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-7369280.pdf successfully moved to D:\Tenders\GEM-2025-B-5813347.
+2025-01-22 12:40:49,061 - GeM-Bidding-Data-Log - INFO - Data of GEM-2025-B-5813347 inserted successfully.
+2025-01-22 12:40:50,058 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2025-B-5813347
+2025-01-22 12:40:50,097 - GeM-Bidding-Data-Log - INFO - Record Already Exists in Database.
+2025-01-22 12:40:50,358 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2025-B-5805625
+2025-01-22 12:40:51,680 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2025-01-22 12:40:51,685 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-7360592.pdf successfully moved to D:\Tenders\GEM-2025-B-5805625.
+2025-01-22 12:40:51,691 - GeM-Bidding-Data-Log - INFO - Data of GEM-2025-B-5805625 inserted successfully.
+2025-01-22 12:40:51,996 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2025-B-5822555
+2025-01-22 12:40:53,359 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2025-01-22 12:40:53,360 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-7379578.pdf successfully moved to D:\Tenders\GEM-2025-B-5822555.
+2025-01-22 12:40:53,361 - GeM-Bidding-Data-Log - INFO - Data of GEM-2025-B-5822555 inserted successfully.
+2025-01-22 12:40:53,657 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2025-B-5819704
+2025-01-22 12:40:55,032 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2025-01-22 12:40:55,033 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-7376412.pdf successfully moved to D:\Tenders\GEM-2025-B-5819704.
+2025-01-22 12:40:55,035 - GeM-Bidding-Data-Log - INFO - Data of GEM-2025-B-5819704 inserted successfully.
+2025-01-22 12:40:55,364 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2025-B-5782275
+2025-01-22 12:40:56,793 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2025-01-22 12:40:56,794 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-7334276.pdf successfully moved to D:\Tenders\GEM-2025-B-5782275.
+2025-01-22 12:40:56,796 - GeM-Bidding-Data-Log - INFO - Data of GEM-2025-B-5782275 inserted successfully.
+2025-01-22 12:40:57,097 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2024-B-5761622
+2025-01-22 12:40:58,468 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2025-01-22 12:40:58,469 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-7310875.pdf successfully moved to D:\Tenders\GEM-2024-B-5761622.
+2025-01-22 12:40:58,471 - GeM-Bidding-Data-Log - INFO - Data of GEM-2024-B-5761622 inserted successfully.
+2025-01-22 12:40:58,733 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2025-B-5810500
+2025-01-22 12:41:00,053 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2025-01-22 12:41:00,054 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-7366035.pdf successfully moved to D:\Tenders\GEM-2025-B-5810500.
+2025-01-22 12:41:00,055 - GeM-Bidding-Data-Log - INFO - Data of GEM-2025-B-5810500 inserted successfully.
+2025-01-22 12:41:02,633 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2025-01-22 12:41:02,645 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-Corr-7366035-3.pdf moved to D:\Tenders\GEM-2025-B-5810500.
+2025-01-22 12:41:03,689 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2025-B-5815730
+2025-01-22 12:41:05,083 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2025-01-22 12:41:05,084 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-7371970.pdf successfully moved to D:\Tenders\GEM-2025-B-5815730.
+2025-01-22 12:41:05,085 - GeM-Bidding-Data-Log - INFO - Data of GEM-2025-B-5815730 inserted successfully.
+2025-01-22 12:41:05,468 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2024-B-5766160
+2025-01-22 12:41:10,941 - GeM-Bidding-Data-Log - INFO - Download completed in 4 seconds.
+2025-01-22 12:41:10,947 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-7316023.pdf successfully moved to D:\Tenders\GEM-2024-B-5766160.
+2025-01-22 12:41:10,951 - GeM-Bidding-Data-Log - INFO - Data of GEM-2024-B-5766160 inserted successfully.
+2025-01-22 12:41:11,301 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2024-B-5677602
+2025-01-22 12:41:12,647 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2025-01-22 12:41:12,649 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-7216466.pdf successfully moved to D:\Tenders\GEM-2024-B-5677602.
+2025-01-22 12:41:12,651 - GeM-Bidding-Data-Log - INFO - Data of GEM-2024-B-5677602 inserted successfully.
+2025-01-22 12:41:22,647 - GeM-Bidding-Data-Log - INFO - Download completed in 6 seconds.
+2025-01-22 12:41:22,672 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-Corr-7216466-3.pdf moved to D:\Tenders\GEM-2024-B-5677602.
+2025-01-22 12:41:24,160 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2024-B-5719491
+2025-01-22 12:41:27,609 - GeM-Bidding-Data-Log - INFO - Download completed in 2 seconds.
+2025-01-22 12:41:27,634 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-7263318.pdf successfully moved to D:\Tenders\GEM-2024-B-5719491.
+2025-01-22 12:41:27,636 - GeM-Bidding-Data-Log - INFO - Data of GEM-2024-B-5719491 inserted successfully.
+2025-01-22 12:41:31,528 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2025-B-5775756
+2025-01-22 12:41:35,881 - GeM-Bidding-Data-Log - INFO - Download completed in 3 seconds.
+2025-01-22 12:41:35,882 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-7326703.pdf successfully moved to D:\Tenders\GEM-2025-B-5775756.
+2025-01-22 12:41:35,883 - GeM-Bidding-Data-Log - INFO - Data of GEM-2025-B-5775756 inserted successfully.
+2025-01-22 12:41:39,148 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2025-B-5825599
+2025-01-22 12:41:41,481 - GeM-Bidding-Data-Log - INFO - Download completed in 1 seconds.
+2025-01-22 12:41:41,484 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-7382964.pdf successfully moved to D:\Tenders\GEM-2025-B-5825599.
+2025-01-22 12:41:41,491 - GeM-Bidding-Data-Log - INFO - Data of GEM-2025-B-5825599 inserted successfully.
+2025-01-22 12:41:41,938 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2025-B-5776224
+2025-01-22 12:41:43,396 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2025-01-22 12:41:43,398 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-7327220.pdf successfully moved to D:\Tenders\GEM-2025-B-5776224.
+2025-01-22 12:41:43,399 - GeM-Bidding-Data-Log - INFO - Data of GEM-2025-B-5776224 inserted successfully.
+2025-01-22 12:41:43,763 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2024-B-5630680
+2025-01-22 12:41:45,292 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2025-01-22 12:41:45,295 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-7164100.pdf successfully moved to D:\Tenders\GEM-2024-B-5630680.
+2025-01-22 12:41:45,300 - GeM-Bidding-Data-Log - INFO - Data of GEM-2024-B-5630680 inserted successfully.
+2025-01-22 12:41:45,736 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2024-B-5695755
+2025-01-22 12:41:51,141 - GeM-Bidding-Data-Log - INFO - Download completed in 4 seconds.
+2025-01-22 12:41:51,143 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-7236700.pdf successfully moved to D:\Tenders\GEM-2024-B-5695755.
+2025-01-22 12:41:51,145 - GeM-Bidding-Data-Log - INFO - Data of GEM-2024-B-5695755 inserted successfully.
+2025-01-22 12:41:53,018 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2025-B-5831542
+2025-01-22 12:41:54,416 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2025-01-22 12:41:54,418 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-7389562.pdf successfully moved to D:\Tenders\GEM-2025-B-5831542.
+2025-01-22 12:41:54,420 - GeM-Bidding-Data-Log - INFO - Data of GEM-2025-B-5831542 inserted successfully.
+2025-01-22 12:41:54,768 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2024-B-5730781
+2025-01-22 12:41:56,115 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2025-01-22 12:41:56,120 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-7275921.pdf successfully moved to D:\Tenders\GEM-2024-B-5730781.
+2025-01-22 12:41:56,126 - GeM-Bidding-Data-Log - INFO - Data of GEM-2024-B-5730781 inserted successfully.
+2025-01-22 12:41:58,325 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2025-B-5783977
+2025-01-22 12:41:59,872 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2025-01-22 12:41:59,876 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-7336160.pdf successfully moved to D:\Tenders\GEM-2025-B-5783977.
+2025-01-22 12:41:59,878 - GeM-Bidding-Data-Log - INFO - Data of GEM-2025-B-5783977 inserted successfully.
+2025-01-22 12:42:00,329 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2025-B-5771202
+2025-01-22 12:42:01,802 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2025-01-22 12:42:01,803 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-7321497.pdf successfully moved to D:\Tenders\GEM-2025-B-5771202.
+2025-01-22 12:42:01,805 - GeM-Bidding-Data-Log - INFO - Data of GEM-2025-B-5771202 inserted successfully.
+2025-01-22 12:42:05,571 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2025-01-22 12:42:05,597 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-Corr-7321497-7.pdf moved to D:\Tenders\GEM-2025-B-5771202.
+2025-01-22 12:42:10,981 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2025-B-5781677
+2025-01-22 12:42:34,425 - GeM-Bidding-Data-Log - INFO - Download completed in 22 seconds.
+2025-01-22 12:42:34,426 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-7333525.pdf successfully moved to D:\Tenders\GEM-2025-B-5781677.
+2025-01-22 12:42:34,427 - GeM-Bidding-Data-Log - INFO - Data of GEM-2025-B-5781677 inserted successfully.
+2025-01-22 12:42:34,817 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2025-B-5826887
+2025-01-22 12:42:40,267 - GeM-Bidding-Data-Log - INFO - Download completed in 4 seconds.
+2025-01-22 12:42:40,273 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-7384411.pdf successfully moved to D:\Tenders\GEM-2025-B-5826887.
+2025-01-22 12:42:40,276 - GeM-Bidding-Data-Log - INFO - Data of GEM-2025-B-5826887 inserted successfully.
+2025-01-22 12:42:40,634 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2025-B-5785928
+2025-01-22 12:42:45,989 - GeM-Bidding-Data-Log - INFO - Download completed in 4 seconds.
+2025-01-22 12:42:45,991 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-7338437.pdf successfully moved to D:\Tenders\GEM-2025-B-5785928.
+2025-01-22 12:42:45,992 - GeM-Bidding-Data-Log - INFO - Data of GEM-2025-B-5785928 inserted successfully.
+2025-01-22 12:42:46,359 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2025-B-5785696
+2025-01-22 12:42:51,763 - GeM-Bidding-Data-Log - INFO - Download completed in 4 seconds.
+2025-01-22 12:42:51,763 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-7338166.pdf successfully moved to D:\Tenders\GEM-2025-B-5785696.
+2025-01-22 12:42:51,765 - GeM-Bidding-Data-Log - INFO - Data of GEM-2025-B-5785696 inserted successfully.
+2025-01-22 12:42:52,163 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2024-B-5703864
+2025-01-22 12:42:53,525 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2025-01-22 12:42:53,526 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-7245649.pdf successfully moved to D:\Tenders\GEM-2024-B-5703864.
+2025-01-22 12:42:53,528 - GeM-Bidding-Data-Log - INFO - Data of GEM-2024-B-5703864 inserted successfully.
+2025-01-22 12:42:53,861 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2025-B-5799550
+2025-01-22 12:42:55,328 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2025-01-22 12:42:55,333 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-7353868.pdf successfully moved to D:\Tenders\GEM-2025-B-5799550.
+2025-01-22 12:42:55,338 - GeM-Bidding-Data-Log - INFO - Data of GEM-2025-B-5799550 inserted successfully.
+2025-01-22 12:42:55,724 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2025-B-5832699
+2025-01-22 12:42:57,075 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2025-01-22 12:42:57,076 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-7390841.pdf successfully moved to D:\Tenders\GEM-2025-B-5832699.
+2025-01-22 12:42:57,077 - GeM-Bidding-Data-Log - INFO - Data of GEM-2025-B-5832699 inserted successfully.
+2025-01-22 12:42:57,380 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2025-B-5833295
+2025-01-22 12:42:58,739 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2025-01-22 12:42:58,742 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-7391498.pdf successfully moved to D:\Tenders\GEM-2025-B-5833295.
+2025-01-22 12:42:58,744 - GeM-Bidding-Data-Log - INFO - Data of GEM-2025-B-5833295 inserted successfully.
+2025-01-22 12:42:59,103 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2024-B-5639583
+2025-01-22 12:43:00,490 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2025-01-22 12:43:00,491 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-7174051.pdf successfully moved to D:\Tenders\GEM-2024-B-5639583.
+2025-01-22 12:43:00,492 - GeM-Bidding-Data-Log - INFO - Data of GEM-2024-B-5639583 inserted successfully.
+2025-01-22 12:43:04,463 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2025-01-22 12:43:04,489 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-Corr-7174051-12.pdf moved to D:\Tenders\GEM-2024-B-5639583.
+2025-01-22 12:43:05,821 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2025-01-22 12:43:05,856 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-Corr-7174051-11.pdf moved to D:\Tenders\GEM-2024-B-5639583.
+2025-01-22 12:43:07,371 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2025-01-22 12:43:07,405 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-Corr-7174051-8.pdf moved to D:\Tenders\GEM-2024-B-5639583.
+2025-01-22 12:43:08,938 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2025-01-22 12:43:08,979 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-Corr-7174051-5.pdf moved to D:\Tenders\GEM-2024-B-5639583.
+2025-01-22 12:43:10,350 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2025-01-22 12:43:10,389 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-Corr-7174051-4.pdf moved to D:\Tenders\GEM-2024-B-5639583.
+2025-01-22 12:43:11,902 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2025-01-22 12:43:11,914 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-Corr-7174051-1.pdf moved to D:\Tenders\GEM-2024-B-5639583.
+2025-01-22 12:43:12,646 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2024-B-5741692
+2025-01-22 12:43:22,991 - GeM-Bidding-Data-Log - INFO - Download completed in 9 seconds.
+2025-01-22 12:43:22,992 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-7288299.pdf successfully moved to D:\Tenders\GEM-2024-B-5741692.
+2025-01-22 12:43:22,993 - GeM-Bidding-Data-Log - INFO - Data of GEM-2024-B-5741692 inserted successfully.
+2025-01-22 12:43:33,122 - GeM-Bidding-Data-Log - INFO - Download completed in 6 seconds.
+2025-01-22 12:43:33,133 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-Corr-7288299-7.pdf moved to D:\Tenders\GEM-2024-B-5741692.
+2025-01-22 12:44:14,777 - GeM-Bidding-Data-Log - INFO - Download completed in 40 seconds.
+2025-01-22 12:44:14,892 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-Corr-7288299-4.pdf moved to D:\Tenders\GEM-2024-B-5741692.
+2025-01-22 12:44:16,632 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2025-01-22 12:44:16,642 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-Corr-7288299-1.pdf moved to D:\Tenders\GEM-2024-B-5741692.
+2025-01-22 12:44:18,159 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2025-B-5786539
+2025-01-22 12:44:19,519 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2025-01-22 12:44:19,520 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-7339150.pdf successfully moved to D:\Tenders\GEM-2025-B-5786539.
+2025-01-22 12:44:19,522 - GeM-Bidding-Data-Log - INFO - Data of GEM-2025-B-5786539 inserted successfully.
+2025-01-22 12:44:20,331 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2024-B-5717728
+2025-01-22 12:44:21,723 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2025-01-22 12:44:21,725 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-7261402.pdf successfully moved to D:\Tenders\GEM-2024-B-5717728.
+2025-01-22 12:44:21,726 - GeM-Bidding-Data-Log - INFO - Data of GEM-2024-B-5717728 inserted successfully.
+2025-01-22 12:44:22,055 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2025-B-5790962
+2025-01-22 12:44:23,415 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2025-01-22 12:44:23,416 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-7344240.pdf successfully moved to D:\Tenders\GEM-2025-B-5790962.
+2025-01-22 12:44:23,417 - GeM-Bidding-Data-Log - INFO - Data of GEM-2025-B-5790962 inserted successfully.
+2025-01-22 12:44:23,738 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2025-B-5805884
+2025-01-22 12:44:25,234 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2025-01-22 12:44:25,237 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-7360869.pdf successfully moved to D:\Tenders\GEM-2025-B-5805884.
+2025-01-22 12:44:25,240 - GeM-Bidding-Data-Log - INFO - Data of GEM-2025-B-5805884 inserted successfully.
+2025-01-22 12:44:25,574 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2025-B-5833834
+2025-01-22 12:44:26,897 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2025-01-22 12:44:26,897 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-7392075.pdf successfully moved to D:\Tenders\GEM-2025-B-5833834.
+2025-01-22 12:44:26,899 - GeM-Bidding-Data-Log - INFO - Data of GEM-2025-B-5833834 inserted successfully.
+2025-01-22 12:44:27,256 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2025-B-5827389
+2025-01-22 12:44:28,652 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2025-01-22 12:44:28,653 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-7384992.pdf successfully moved to D:\Tenders\GEM-2025-B-5827389.
+2025-01-22 12:44:28,654 - GeM-Bidding-Data-Log - INFO - Data of GEM-2025-B-5827389 inserted successfully.
+2025-01-22 12:44:28,960 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2025-B-5818546
+2025-01-22 12:45:29,591 - GeM-Bidding-Data-Log - ERROR - Download did not complete in 60 seconds, retrying...
+2025-01-22 12:46:29,930 - GeM-Bidding-Data-Log - ERROR - Download did not complete in 60 seconds, retrying...
+2025-01-22 12:47:30,331 - GeM-Bidding-Data-Log - ERROR - Download did not complete in 60 seconds, retrying...
+2025-01-22 12:47:30,331 - GeM-Bidding-Data-Log - ERROR - Error processing bid at index 8: File 'GeM-Bidding-7375154.pdf' not found after 3 attempts.
+2025-01-22 12:47:30,402 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2025-B-5817713
+2025-01-22 12:47:31,824 - GeM-Bidding-Data-Log - ERROR - File 'GeM-Bidding-7374222.pdf' not found, retrying download...
+2025-01-22 12:47:32,982 - GeM-Bidding-Data-Log - ERROR - File 'GeM-Bidding-7374222.pdf' not found, retrying download...
+2025-01-22 12:47:34,174 - GeM-Bidding-Data-Log - ERROR - File 'GeM-Bidding-7374222.pdf' not found, retrying download...
+2025-01-22 12:47:34,174 - GeM-Bidding-Data-Log - ERROR - Error processing bid at index 9: File 'GeM-Bidding-7374222.pdf' not found after 3 attempts.
+2025-01-22 12:47:34,667 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2025-B-5812171
+2025-01-22 12:48:35,205 - GeM-Bidding-Data-Log - ERROR - Download did not complete in 60 seconds, retrying...
+2025-01-22 12:48:44,356 - GeM-Bidding-Data-Log - ERROR - File 'GeM-Bidding-7367903.pdf' not found, retrying download...
+2025-01-22 12:48:44,364 - GeM-Bidding-Data-Log - ERROR - Error processing bid at index 10: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.265)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7455FFB05+28789]
+	(No symbol) [0x00007FF7455686E0]
+	(No symbol) [0x00007FF74540592A]
+	(No symbol) [0x00007FF7453DF505]
+	(No symbol) [0x00007FF745486477]
+	(No symbol) [0x00007FF74549EF42]
+	(No symbol) [0x00007FF74547F1E3]
+	(No symbol) [0x00007FF74544A938]
+	(No symbol) [0x00007FF74544BAA1]
+	GetHandleVerifier [0x00007FF74593933D+3410093]
+	GetHandleVerifier [0x00007FF74594E7DD+3497293]
+	GetHandleVerifier [0x00007FF745942A73+3448803]
+	GetHandleVerifier [0x00007FF7456C7BBB+848171]
+	(No symbol) [0x00007FF745573C3F]
+	(No symbol) [0x00007FF74556F6E4]
+	(No symbol) [0x00007FF74556F87D]
+	(No symbol) [0x00007FF74555ED49]
+	BaseThreadInitThunk [0x00007FF84EC27374+20]
+	RtlUserThreadStart [0x00007FF850B1CC91+33]
+
+2025-01-22 12:48:44,374 - GeM-Bidding-Data-Log - ERROR - Error processing bid at index 11: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.265)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7455FFB05+28789]
+	(No symbol) [0x00007FF7455686E0]
+	(No symbol) [0x00007FF74540592A]
+	(No symbol) [0x00007FF7453DF505]
+	(No symbol) [0x00007FF745486477]
+	(No symbol) [0x00007FF74549EF42]
+	(No symbol) [0x00007FF74547F1E3]
+	(No symbol) [0x00007FF74544A938]
+	(No symbol) [0x00007FF74544BAA1]
+	GetHandleVerifier [0x00007FF74593933D+3410093]
+	GetHandleVerifier [0x00007FF74594E7DD+3497293]
+	GetHandleVerifier [0x00007FF745942A73+3448803]
+	GetHandleVerifier [0x00007FF7456C7BBB+848171]
+	(No symbol) [0x00007FF745573C3F]
+	(No symbol) [0x00007FF74556F6E4]
+	(No symbol) [0x00007FF74556F87D]
+	(No symbol) [0x00007FF74555ED49]
+	BaseThreadInitThunk [0x00007FF84EC27374+20]
+	RtlUserThreadStart [0x00007FF850B1CC91+33]
+

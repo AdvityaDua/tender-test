@@ -1,0 +1,636 @@
+2026-03-27 09:19:42,980 - GeM-Bidding-Data-Log - INFO - GeM Data Capture Service started.
+2026-03-27 09:19:46,600 - GeM-Bidding-Data-Log - INFO - Connected to PostgreSQL and initialized schema.
+2026-03-27 09:19:53,660 - GeM-Bidding-Data-Log - INFO - Internet Connection Verified Successfully.
+2026-03-27 09:19:56,682 - GeM-Bidding-Data-Log - INFO - Starting the search of CCTV
+2026-03-27 09:19:57,847 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2026-B-7324377
+2026-03-27 09:19:59,098 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2026-03-27 09:19:59,099 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-9083937.pdf successfully moved to /Volumes/Data/Projects/Gem Tender Management/data/Tenders/GEM-2026-B-7324377.
+2026-03-27 09:19:59,330 - GeM-Bidding-Data-Log - INFO - Data of GEM-2026-B-7324377 inserted successfully.
+2026-03-27 09:20:03,484 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2026-B-7304363
+2026-03-27 09:20:04,696 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2026-03-27 09:20:04,697 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-9060239.pdf successfully moved to /Volumes/Data/Projects/Gem Tender Management/data/Tenders/GEM-2026-B-7304363.
+2026-03-27 09:20:04,937 - GeM-Bidding-Data-Log - INFO - Data of GEM-2026-B-7304363 inserted successfully.
+2026-03-27 09:20:08,170 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2026-B-7325343
+2026-03-27 09:20:09,570 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2026-03-27 09:20:09,570 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-9085034.pdf successfully moved to /Volumes/Data/Projects/Gem Tender Management/data/Tenders/GEM-2026-B-7325343.
+2026-03-27 09:20:09,842 - GeM-Bidding-Data-Log - INFO - Data of GEM-2026-B-7325343 inserted successfully.
+2026-03-27 09:20:13,097 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2026-03-27 09:20:13,098 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-Corr-9085034-7.pdf moved to /Volumes/Data/Projects/Gem Tender Management/data/Tenders/GEM-2026-B-7325343.
+2026-03-27 09:20:18,724 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2026-B-7323518
+2026-03-27 09:20:20,937 - GeM-Bidding-Data-Log - INFO - Download completed in 1 seconds.
+2026-03-27 09:20:20,938 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-9082954.pdf successfully moved to /Volumes/Data/Projects/Gem Tender Management/data/Tenders/GEM-2026-B-7323518.
+2026-03-27 09:20:21,167 - GeM-Bidding-Data-Log - INFO - Data of GEM-2026-B-7323518 inserted successfully.
+2026-03-27 09:20:21,304 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2026-B-7351895
+2026-03-27 09:20:22,498 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2026-03-27 09:20:22,499 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-9116202.pdf successfully moved to /Volumes/Data/Projects/Gem Tender Management/data/Tenders/GEM-2026-B-7351895.
+2026-03-27 09:20:22,757 - GeM-Bidding-Data-Log - INFO - Data of GEM-2026-B-7351895 inserted successfully.
+2026-03-27 09:20:25,728 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2026-B-7364531
+2026-03-27 09:20:26,963 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2026-03-27 09:20:26,964 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-9131438.pdf successfully moved to /Volumes/Data/Projects/Gem Tender Management/data/Tenders/GEM-2026-B-7364531.
+2026-03-27 09:20:27,273 - GeM-Bidding-Data-Log - INFO - Data of GEM-2026-B-7364531 inserted successfully.
+2026-03-27 09:20:27,495 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2026-B-7324129
+2026-03-27 09:20:28,731 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2026-03-27 09:20:28,732 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-9083655.pdf successfully moved to /Volumes/Data/Projects/Gem Tender Management/data/Tenders/GEM-2026-B-7324129.
+2026-03-27 09:20:29,005 - GeM-Bidding-Data-Log - INFO - Data of GEM-2026-B-7324129 inserted successfully.
+2026-03-27 09:20:29,168 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2026-B-7333499
+2026-03-27 09:20:30,396 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2026-03-27 09:20:30,397 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-9094613.pdf successfully moved to /Volumes/Data/Projects/Gem Tender Management/data/Tenders/GEM-2026-B-7333499.
+2026-03-27 09:20:30,657 - GeM-Bidding-Data-Log - INFO - Data of GEM-2026-B-7333499 inserted successfully.
+2026-03-27 09:20:30,718 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2026-B-7365211
+2026-03-27 09:20:31,931 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2026-03-27 09:20:31,931 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-9132265.pdf successfully moved to /Volumes/Data/Projects/Gem Tender Management/data/Tenders/GEM-2026-B-7365211.
+2026-03-27 09:20:32,200 - GeM-Bidding-Data-Log - INFO - Data of GEM-2026-B-7365211 inserted successfully.
+2026-03-27 09:20:32,374 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2026-B-7261240
+2026-03-27 09:20:33,605 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2026-03-27 09:20:33,606 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-9010982.pdf successfully moved to /Volumes/Data/Projects/Gem Tender Management/data/Tenders/GEM-2026-B-7261240.
+2026-03-27 09:20:33,871 - GeM-Bidding-Data-Log - INFO - Data of GEM-2026-B-7261240 inserted successfully.
+2026-03-27 09:20:38,449 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2026-B-7305246
+2026-03-27 09:20:39,770 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2026-03-27 09:20:39,771 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-9061271.pdf successfully moved to /Volumes/Data/Projects/Gem Tender Management/data/Tenders/GEM-2026-B-7305246.
+2026-03-27 09:20:40,028 - GeM-Bidding-Data-Log - INFO - Data of GEM-2026-B-7305246 inserted successfully.
+2026-03-27 09:20:40,088 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2026-B-7292430
+2026-03-27 09:20:41,313 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2026-03-27 09:20:41,314 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-9046610.pdf successfully moved to /Volumes/Data/Projects/Gem Tender Management/data/Tenders/GEM-2026-B-7292430.
+2026-03-27 09:20:41,580 - GeM-Bidding-Data-Log - INFO - Data of GEM-2026-B-7292430 inserted successfully.
+2026-03-27 09:20:41,613 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2026-B-7339100
+2026-03-27 09:20:42,833 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2026-03-27 09:20:42,833 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-9101401.pdf successfully moved to /Volumes/Data/Projects/Gem Tender Management/data/Tenders/GEM-2026-B-7339100.
+2026-03-27 09:20:43,098 - GeM-Bidding-Data-Log - INFO - Data of GEM-2026-B-7339100 inserted successfully.
+2026-03-27 09:20:44,974 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2026-B-7365819
+2026-03-27 09:20:46,232 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2026-03-27 09:20:46,233 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-9132943.pdf successfully moved to /Volumes/Data/Projects/Gem Tender Management/data/Tenders/GEM-2026-B-7365819.
+2026-03-27 09:20:46,480 - GeM-Bidding-Data-Log - INFO - Data of GEM-2026-B-7365819 inserted successfully.
+2026-03-27 09:20:46,628 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2026-B-7251098
+2026-03-27 09:20:47,847 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2026-03-27 09:20:47,848 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-8999604.pdf successfully moved to /Volumes/Data/Projects/Gem Tender Management/data/Tenders/GEM-2026-B-7251098.
+2026-03-27 09:20:48,118 - GeM-Bidding-Data-Log - INFO - Data of GEM-2026-B-7251098 inserted successfully.
+2026-03-27 09:20:48,343 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2026-B-7241350
+2026-03-27 09:20:49,562 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2026-03-27 09:20:49,563 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-8988172.pdf successfully moved to /Volumes/Data/Projects/Gem Tender Management/data/Tenders/GEM-2026-B-7241350.
+2026-03-27 09:20:49,848 - GeM-Bidding-Data-Log - INFO - Data of GEM-2026-B-7241350 inserted successfully.
+2026-03-27 09:20:52,641 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2026-B-7096892
+2026-03-27 09:20:53,897 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2026-03-27 09:20:53,898 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-8823281.pdf successfully moved to /Volumes/Data/Projects/Gem Tender Management/data/Tenders/GEM-2026-B-7096892.
+2026-03-27 09:20:54,170 - GeM-Bidding-Data-Log - INFO - Data of GEM-2026-B-7096892 inserted successfully.
+2026-03-27 09:20:58,312 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2026-B-7348032
+2026-03-27 09:20:59,501 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2026-03-27 09:20:59,501 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-9111735.pdf successfully moved to /Volumes/Data/Projects/Gem Tender Management/data/Tenders/GEM-2026-B-7348032.
+2026-03-27 09:20:59,798 - GeM-Bidding-Data-Log - INFO - Data of GEM-2026-B-7348032 inserted successfully.
+2026-03-27 09:20:59,964 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2026-B-7357776
+2026-03-27 09:21:01,168 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2026-03-27 09:21:01,169 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-9123139.pdf successfully moved to /Volumes/Data/Projects/Gem Tender Management/data/Tenders/GEM-2026-B-7357776.
+2026-03-27 09:21:01,428 - GeM-Bidding-Data-Log - INFO - Data of GEM-2026-B-7357776 inserted successfully.
+2026-03-27 09:21:04,273 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2026-B-7312318
+2026-03-27 09:21:05,481 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2026-03-27 09:21:05,482 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-9069616.pdf successfully moved to /Volumes/Data/Projects/Gem Tender Management/data/Tenders/GEM-2026-B-7312318.
+2026-03-27 09:21:05,722 - GeM-Bidding-Data-Log - INFO - Data of GEM-2026-B-7312318 inserted successfully.
+2026-03-27 09:21:09,632 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2026-B-7207718
+2026-03-27 09:21:10,848 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2026-03-27 09:21:10,849 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-8950120.pdf successfully moved to /Volumes/Data/Projects/Gem Tender Management/data/Tenders/GEM-2026-B-7207718.
+2026-03-27 09:21:11,166 - GeM-Bidding-Data-Log - INFO - Data of GEM-2026-B-7207718 inserted successfully.
+2026-03-27 09:21:11,228 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2026-B-7363339
+2026-03-27 09:21:12,445 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2026-03-27 09:21:12,446 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-9129987.pdf successfully moved to /Volumes/Data/Projects/Gem Tender Management/data/Tenders/GEM-2026-B-7363339.
+2026-03-27 09:21:12,759 - GeM-Bidding-Data-Log - INFO - Data of GEM-2026-B-7363339 inserted successfully.
+2026-03-27 09:21:12,943 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2026-B-7362453
+2026-03-27 09:21:14,180 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2026-03-27 09:21:14,181 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-9128934.pdf successfully moved to /Volumes/Data/Projects/Gem Tender Management/data/Tenders/GEM-2026-B-7362453.
+2026-03-27 09:21:14,418 - GeM-Bidding-Data-Log - INFO - Data of GEM-2026-B-7362453 inserted successfully.
+2026-03-27 09:21:14,583 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2026-B-7325525
+2026-03-27 09:21:15,799 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2026-03-27 09:21:15,800 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-9085242.pdf successfully moved to /Volumes/Data/Projects/Gem Tender Management/data/Tenders/GEM-2026-B-7325525.
+2026-03-27 09:21:16,050 - GeM-Bidding-Data-Log - INFO - Data of GEM-2026-B-7325525 inserted successfully.
+2026-03-27 09:21:16,482 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2026-B-7211807
+2026-03-27 09:21:17,715 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2026-03-27 09:21:17,716 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-8954996.pdf successfully moved to /Volumes/Data/Projects/Gem Tender Management/data/Tenders/GEM-2026-B-7211807.
+2026-03-27 09:21:17,955 - GeM-Bidding-Data-Log - INFO - Data of GEM-2026-B-7211807 inserted successfully.
+2026-03-27 09:21:18,014 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2026-B-7354484
+2026-03-27 09:21:19,225 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2026-03-27 09:21:19,226 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-9119273.pdf successfully moved to /Volumes/Data/Projects/Gem Tender Management/data/Tenders/GEM-2026-B-7354484.
+2026-03-27 09:21:19,480 - GeM-Bidding-Data-Log - INFO - Data of GEM-2026-B-7354484 inserted successfully.
+2026-03-27 09:21:19,652 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2026-B-7352398
+2026-03-27 09:21:20,879 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2026-03-27 09:21:20,880 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-9116773.pdf successfully moved to /Volumes/Data/Projects/Gem Tender Management/data/Tenders/GEM-2026-B-7352398.
+2026-03-27 09:21:21,130 - GeM-Bidding-Data-Log - INFO - Data of GEM-2026-B-7352398 inserted successfully.
+2026-03-27 09:21:21,310 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2026-B-7341334
+2026-03-27 09:21:22,544 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2026-03-27 09:21:22,545 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-9103976.pdf successfully moved to /Volumes/Data/Projects/Gem Tender Management/data/Tenders/GEM-2026-B-7341334.
+2026-03-27 09:21:22,788 - GeM-Bidding-Data-Log - INFO - Data of GEM-2026-B-7341334 inserted successfully.
+2026-03-27 09:21:22,958 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2026-B-7367283
+2026-03-27 09:21:24,210 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2026-03-27 09:21:24,211 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-9134593.pdf successfully moved to /Volumes/Data/Projects/Gem Tender Management/data/Tenders/GEM-2026-B-7367283.
+2026-03-27 09:21:24,486 - GeM-Bidding-Data-Log - INFO - Data of GEM-2026-B-7367283 inserted successfully.
+2026-03-27 09:21:24,659 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2026-B-7363703
+2026-03-27 09:21:25,876 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2026-03-27 09:21:25,876 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-9130428.pdf successfully moved to /Volumes/Data/Projects/Gem Tender Management/data/Tenders/GEM-2026-B-7363703.
+2026-03-27 09:21:26,133 - GeM-Bidding-Data-Log - INFO - Data of GEM-2026-B-7363703 inserted successfully.
+2026-03-27 09:21:27,433 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2026-B-7363703
+2026-03-27 09:21:27,568 - GeM-Bidding-Data-Log - INFO - Record Already Exists in Database.
+2026-03-27 09:21:27,733 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2026-B-7353522
+2026-03-27 09:21:28,944 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2026-03-27 09:21:28,944 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-9118123.pdf successfully moved to /Volumes/Data/Projects/Gem Tender Management/data/Tenders/GEM-2026-B-7353522.
+2026-03-27 09:21:29,279 - GeM-Bidding-Data-Log - INFO - Data of GEM-2026-B-7353522 inserted successfully.
+2026-03-27 09:21:29,511 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2026-B-7283931
+2026-03-27 09:21:30,824 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2026-03-27 09:21:30,825 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-9037091.pdf successfully moved to /Volumes/Data/Projects/Gem Tender Management/data/Tenders/GEM-2026-B-7283931.
+2026-03-27 09:21:31,089 - GeM-Bidding-Data-Log - INFO - Data of GEM-2026-B-7283931 inserted successfully.
+2026-03-27 09:21:31,132 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2026-B-7367773
+2026-03-27 09:21:32,344 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2026-03-27 09:21:32,344 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-9135133.pdf successfully moved to /Volumes/Data/Projects/Gem Tender Management/data/Tenders/GEM-2026-B-7367773.
+2026-03-27 09:21:32,581 - GeM-Bidding-Data-Log - INFO - Data of GEM-2026-B-7367773 inserted successfully.
+2026-03-27 09:21:32,741 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2026-B-7298030
+2026-03-27 09:21:33,939 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2026-03-27 09:21:33,940 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-9052984.pdf successfully moved to /Volumes/Data/Projects/Gem Tender Management/data/Tenders/GEM-2026-B-7298030.
+2026-03-27 09:21:34,189 - GeM-Bidding-Data-Log - INFO - Data of GEM-2026-B-7298030 inserted successfully.
+2026-03-27 09:21:37,526 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2026-B-7366520
+2026-03-27 09:21:38,744 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2026-03-27 09:21:38,744 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-9133735.pdf successfully moved to /Volumes/Data/Projects/Gem Tender Management/data/Tenders/GEM-2026-B-7366520.
+2026-03-27 09:21:38,978 - GeM-Bidding-Data-Log - INFO - Data of GEM-2026-B-7366520 inserted successfully.
+2026-03-27 09:21:38,980 - GeM-Bidding-Data-Log - ERROR - Error processing bid at index 7: 'NoneType' object has no attribute 'is_displayed'
+2026-03-27 09:21:39,109 - GeM-Bidding-Data-Log - ERROR - Error processing bid at index 8: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=146.0.7680.165)
+Stacktrace:
+0   chromedriver                        0x0000000102f3f99c cxxbridge1$str$ptr + 3160104
+1   chromedriver                        0x0000000102f37a28 cxxbridge1$str$ptr + 3127476
+2   chromedriver                        0x0000000102a0b904 _RNvCskE0kXQ3GIWk_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 75036
+3   chromedriver                        0x00000001029e43e0 chromedriver + 164832
+4   chromedriver                        0x0000000102a7c288 _RNvCskE0kXQ3GIWk_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 536224
+5   chromedriver                        0x0000000102a92004 _RNvCskE0kXQ3GIWk_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 625692
+6   chromedriver                        0x0000000102a491a0 _RNvCskE0kXQ3GIWk_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 327096
+7   chromedriver                        0x0000000102efe220 cxxbridge1$str$ptr + 2891948
+8   chromedriver                        0x0000000102f01910 cxxbridge1$str$ptr + 2906012
+9   chromedriver                        0x0000000102ee35d8 cxxbridge1$str$ptr + 2782308
+10  chromedriver                        0x0000000102f02194 cxxbridge1$str$ptr + 2908192
+11  chromedriver                        0x0000000102ed4090 cxxbridge1$str$ptr + 2719516
+12  chromedriver                        0x0000000102f26b30 cxxbridge1$str$ptr + 3058108
+13  chromedriver                        0x0000000102f26cac cxxbridge1$str$ptr + 3058488
+14  chromedriver                        0x0000000102f37680 cxxbridge1$str$ptr + 3126540
+15  libsystem_pthread.dylib             0x0000000181753bc8 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000018174eb80 thread_start + 8
+
+2026-03-27 09:21:39,240 - GeM-Bidding-Data-Log - ERROR - Error processing bid at index 9: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=146.0.7680.165)
+Stacktrace:
+0   chromedriver                        0x0000000102f3f99c cxxbridge1$str$ptr + 3160104
+1   chromedriver                        0x0000000102f37a28 cxxbridge1$str$ptr + 3127476
+2   chromedriver                        0x0000000102a0b904 _RNvCskE0kXQ3GIWk_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 75036
+3   chromedriver                        0x00000001029e43e0 chromedriver + 164832
+4   chromedriver                        0x0000000102a7c288 _RNvCskE0kXQ3GIWk_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 536224
+5   chromedriver                        0x0000000102a92004 _RNvCskE0kXQ3GIWk_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 625692
+6   chromedriver                        0x0000000102a491a0 _RNvCskE0kXQ3GIWk_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 327096
+7   chromedriver                        0x0000000102efe220 cxxbridge1$str$ptr + 2891948
+8   chromedriver                        0x0000000102f01910 cxxbridge1$str$ptr + 2906012
+9   chromedriver                        0x0000000102ee35d8 cxxbridge1$str$ptr + 2782308
+10  chromedriver                        0x0000000102f02194 cxxbridge1$str$ptr + 2908192
+11  chromedriver                        0x0000000102ed4090 cxxbridge1$str$ptr + 2719516
+12  chromedriver                        0x0000000102f26b30 cxxbridge1$str$ptr + 3058108
+13  chromedriver                        0x0000000102f26cac cxxbridge1$str$ptr + 3058488
+14  chromedriver                        0x0000000102f37680 cxxbridge1$str$ptr + 3126540
+15  libsystem_pthread.dylib             0x0000000181753bc8 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000018174eb80 thread_start + 8
+
+2026-03-27 09:21:39,365 - GeM-Bidding-Data-Log - ERROR - Error processing bid at index 10: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=146.0.7680.165)
+Stacktrace:
+0   chromedriver                        0x0000000102f3f99c cxxbridge1$str$ptr + 3160104
+1   chromedriver                        0x0000000102f37a28 cxxbridge1$str$ptr + 3127476
+2   chromedriver                        0x0000000102a0b904 _RNvCskE0kXQ3GIWk_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 75036
+3   chromedriver                        0x00000001029e43e0 chromedriver + 164832
+4   chromedriver                        0x0000000102a7c288 _RNvCskE0kXQ3GIWk_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 536224
+5   chromedriver                        0x0000000102a92004 _RNvCskE0kXQ3GIWk_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 625692
+6   chromedriver                        0x0000000102a491a0 _RNvCskE0kXQ3GIWk_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 327096
+7   chromedriver                        0x0000000102efe220 cxxbridge1$str$ptr + 2891948
+8   chromedriver                        0x0000000102f01910 cxxbridge1$str$ptr + 2906012
+9   chromedriver                        0x0000000102ee35d8 cxxbridge1$str$ptr + 2782308
+10  chromedriver                        0x0000000102f02194 cxxbridge1$str$ptr + 2908192
+11  chromedriver                        0x0000000102ed4090 cxxbridge1$str$ptr + 2719516
+12  chromedriver                        0x0000000102f26b30 cxxbridge1$str$ptr + 3058108
+13  chromedriver                        0x0000000102f26cac cxxbridge1$str$ptr + 3058488
+14  chromedriver                        0x0000000102f37680 cxxbridge1$str$ptr + 3126540
+15  libsystem_pthread.dylib             0x0000000181753bc8 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000018174eb80 thread_start + 8
+
+2026-03-27 09:21:39,481 - GeM-Bidding-Data-Log - ERROR - Error processing bid at index 11: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=146.0.7680.165)
+Stacktrace:
+0   chromedriver                        0x0000000102f3f99c cxxbridge1$str$ptr + 3160104
+1   chromedriver                        0x0000000102f37a28 cxxbridge1$str$ptr + 3127476
+2   chromedriver                        0x0000000102a0b904 _RNvCskE0kXQ3GIWk_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 75036
+3   chromedriver                        0x00000001029e43e0 chromedriver + 164832
+4   chromedriver                        0x0000000102a7c288 _RNvCskE0kXQ3GIWk_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 536224
+5   chromedriver                        0x0000000102a92004 _RNvCskE0kXQ3GIWk_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 625692
+6   chromedriver                        0x0000000102a491a0 _RNvCskE0kXQ3GIWk_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 327096
+7   chromedriver                        0x0000000102efe220 cxxbridge1$str$ptr + 2891948
+8   chromedriver                        0x0000000102f01910 cxxbridge1$str$ptr + 2906012
+9   chromedriver                        0x0000000102ee35d8 cxxbridge1$str$ptr + 2782308
+10  chromedriver                        0x0000000102f02194 cxxbridge1$str$ptr + 2908192
+11  chromedriver                        0x0000000102ed4090 cxxbridge1$str$ptr + 2719516
+12  chromedriver                        0x0000000102f26b30 cxxbridge1$str$ptr + 3058108
+13  chromedriver                        0x0000000102f26cac cxxbridge1$str$ptr + 3058488
+14  chromedriver                        0x0000000102f37680 cxxbridge1$str$ptr + 3126540
+15  libsystem_pthread.dylib             0x0000000181753bc8 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000018174eb80 thread_start + 8
+
+2026-03-27 11:13:17,169 - GeM-Bidding-Data-Log - INFO - GeM Data Capture Service started.
+2026-03-27 11:13:19,922 - GeM-Bidding-Data-Log - INFO - Connected to PostgreSQL and initialized schema.
+2026-03-27 11:13:21,732 - GeM-Bidding-Data-Log - INFO - Internet Connection Verified Successfully.
+2026-03-27 11:13:24,504 - GeM-Bidding-Data-Log - INFO - Starting the search of CCTV
+2026-03-27 11:13:25,683 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2026-B-7324129
+2026-03-27 11:13:25,863 - GeM-Bidding-Data-Log - INFO - Skipping GEM-2026-B-7324129 — keyword "CCTV" not a whole-word match in items. Downloading bid file only.
+2026-03-27 11:13:26,922 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2026-03-27 11:13:26,923 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-9083655.pdf successfully moved to /Volumes/Data/Projects/Gem Tender Management/data/Tenders/Rejected/GEM-2026-B-7324129.
+2026-03-27 11:13:27,086 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2026-B-7333499
+2026-03-27 11:13:28,369 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2026-03-27 11:13:28,370 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-9094613.pdf successfully moved to /Volumes/Data/Projects/Gem Tender Management/data/Tenders/GEM-2026-B-7333499.
+2026-03-27 11:13:28,736 - GeM-Bidding-Data-Log - INFO - Data of GEM-2026-B-7333499 inserted successfully.
+2026-03-27 11:13:28,799 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2026-B-7365211
+2026-03-27 11:13:30,071 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2026-03-27 11:13:30,072 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-9132265.pdf successfully moved to /Volumes/Data/Projects/Gem Tender Management/data/Tenders/GEM-2026-B-7365211.
+2026-03-27 11:13:30,447 - GeM-Bidding-Data-Log - INFO - Data of GEM-2026-B-7365211 inserted successfully.
+2026-03-27 11:13:30,624 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2026-B-7261240
+2026-03-27 11:13:31,889 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2026-03-27 11:13:31,890 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-9010982.pdf successfully moved to /Volumes/Data/Projects/Gem Tender Management/data/Tenders/GEM-2026-B-7261240.
+2026-03-27 11:13:32,185 - GeM-Bidding-Data-Log - INFO - Data of GEM-2026-B-7261240 inserted successfully.
+2026-03-27 11:13:35,314 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2026-B-7292430
+2026-03-27 11:13:36,556 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2026-03-27 11:13:36,557 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-9046610.pdf successfully moved to /Volumes/Data/Projects/Gem Tender Management/data/Tenders/GEM-2026-B-7292430.
+2026-03-27 11:13:36,867 - GeM-Bidding-Data-Log - INFO - Data of GEM-2026-B-7292430 inserted successfully.
+2026-03-27 11:13:36,923 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2026-B-7305246
+2026-03-27 11:13:37,087 - GeM-Bidding-Data-Log - INFO - Skipping GEM-2026-B-7305246 — keyword "CCTV" not a whole-word match in items. Downloading bid file only.
+2026-03-27 11:13:38,154 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2026-03-27 11:13:38,155 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-9061271.pdf successfully moved to /Volumes/Data/Projects/Gem Tender Management/data/Tenders/Rejected/GEM-2026-B-7305246.
+2026-03-27 11:13:38,316 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2026-B-7339100
+2026-03-27 11:13:41,566 - GeM-Bidding-Data-Log - INFO - Download completed in 2 seconds.
+2026-03-27 11:13:41,567 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-9101401.pdf successfully moved to /Volumes/Data/Projects/Gem Tender Management/data/Tenders/GEM-2026-B-7339100.
+2026-03-27 11:13:41,856 - GeM-Bidding-Data-Log - INFO - Data of GEM-2026-B-7339100 inserted successfully.
+2026-03-27 11:13:46,002 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2026-B-7365819
+2026-03-27 11:13:48,260 - GeM-Bidding-Data-Log - INFO - Download completed in 1 seconds.
+2026-03-27 11:13:48,260 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-9132943.pdf successfully moved to /Volumes/Data/Projects/Gem Tender Management/data/Tenders/GEM-2026-B-7365819.
+2026-03-27 11:13:48,553 - GeM-Bidding-Data-Log - INFO - Data of GEM-2026-B-7365819 inserted successfully.
+2026-03-27 11:13:48,756 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2026-B-7251098
+2026-03-27 11:13:48,947 - GeM-Bidding-Data-Log - INFO - Skipping GEM-2026-B-7251098 — keyword "CCTV" not a whole-word match in items. Downloading bid file only.
+2026-03-27 11:13:50,005 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2026-03-27 11:13:50,006 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-8999604.pdf successfully moved to /Volumes/Data/Projects/Gem Tender Management/data/Tenders/Rejected/GEM-2026-B-7251098.
+2026-03-27 11:13:50,167 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2026-B-7241350
+2026-03-27 11:13:51,437 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2026-03-27 11:13:51,438 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-8988172.pdf successfully moved to /Volumes/Data/Projects/Gem Tender Management/data/Tenders/GEM-2026-B-7241350.
+2026-03-27 11:13:51,715 - GeM-Bidding-Data-Log - INFO - Data of GEM-2026-B-7241350 inserted successfully.
+2026-03-27 11:13:56,293 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2026-B-7096892
+2026-03-27 11:13:57,536 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2026-03-27 11:13:57,537 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-8823281.pdf successfully moved to /Volumes/Data/Projects/Gem Tender Management/data/Tenders/GEM-2026-B-7096892.
+2026-03-27 11:13:57,837 - GeM-Bidding-Data-Log - INFO - Data of GEM-2026-B-7096892 inserted successfully.
+2026-03-27 11:14:02,764 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2026-B-7348032
+2026-03-27 11:14:04,041 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2026-03-27 11:14:04,042 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-9111735.pdf successfully moved to /Volumes/Data/Projects/Gem Tender Management/data/Tenders/GEM-2026-B-7348032.
+2026-03-27 11:14:04,320 - GeM-Bidding-Data-Log - INFO - Data of GEM-2026-B-7348032 inserted successfully.
+2026-03-27 11:14:04,486 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2026-B-7357776
+2026-03-27 11:14:05,705 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2026-03-27 11:14:05,706 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-9123139.pdf successfully moved to /Volumes/Data/Projects/Gem Tender Management/data/Tenders/GEM-2026-B-7357776.
+2026-03-27 11:14:06,048 - GeM-Bidding-Data-Log - INFO - Data of GEM-2026-B-7357776 inserted successfully.
+2026-03-27 11:14:08,425 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2026-B-7312318
+2026-03-27 11:14:09,670 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2026-03-27 11:14:09,671 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-9069616.pdf successfully moved to /Volumes/Data/Projects/Gem Tender Management/data/Tenders/GEM-2026-B-7312318.
+2026-03-27 11:14:09,971 - GeM-Bidding-Data-Log - INFO - Data of GEM-2026-B-7312318 inserted successfully.
+2026-03-27 11:14:13,091 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2026-B-7207718
+2026-03-27 11:14:14,336 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2026-03-27 11:14:14,337 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-8950120.pdf successfully moved to /Volumes/Data/Projects/Gem Tender Management/data/Tenders/GEM-2026-B-7207718.
+2026-03-27 11:14:14,680 - GeM-Bidding-Data-Log - INFO - Data of GEM-2026-B-7207718 inserted successfully.
+2026-03-27 11:14:14,740 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2026-B-7325525
+2026-03-27 11:14:15,970 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2026-03-27 11:14:15,971 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-9085242.pdf successfully moved to /Volumes/Data/Projects/Gem Tender Management/data/Tenders/GEM-2026-B-7325525.
+2026-03-27 11:14:16,292 - GeM-Bidding-Data-Log - INFO - Data of GEM-2026-B-7325525 inserted successfully.
+2026-03-27 11:14:16,462 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2026-B-7363339
+2026-03-27 11:14:17,685 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2026-03-27 11:14:17,686 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-9129987.pdf successfully moved to /Volumes/Data/Projects/Gem Tender Management/data/Tenders/GEM-2026-B-7363339.
+2026-03-27 11:14:18,084 - GeM-Bidding-Data-Log - INFO - Data of GEM-2026-B-7363339 inserted successfully.
+2026-03-27 11:14:18,284 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2026-B-7362453
+2026-03-27 11:14:19,519 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2026-03-27 11:14:19,520 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-9128934.pdf successfully moved to /Volumes/Data/Projects/Gem Tender Management/data/Tenders/GEM-2026-B-7362453.
+2026-03-27 11:14:19,811 - GeM-Bidding-Data-Log - INFO - Data of GEM-2026-B-7362453 inserted successfully.
+2026-03-27 11:14:20,023 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2026-B-7211807
+2026-03-27 11:14:21,268 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2026-03-27 11:14:21,269 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-8954996.pdf successfully moved to /Volumes/Data/Projects/Gem Tender Management/data/Tenders/GEM-2026-B-7211807.
+2026-03-27 11:14:21,573 - GeM-Bidding-Data-Log - INFO - Data of GEM-2026-B-7211807 inserted successfully.
+2026-03-27 11:14:21,633 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2026-B-7352398
+2026-03-27 11:14:22,852 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2026-03-27 11:14:22,853 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-9116773.pdf successfully moved to /Volumes/Data/Projects/Gem Tender Management/data/Tenders/GEM-2026-B-7352398.
+2026-03-27 11:14:23,147 - GeM-Bidding-Data-Log - INFO - Data of GEM-2026-B-7352398 inserted successfully.
+2026-03-27 11:14:24,456 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2026-B-7341334
+2026-03-27 11:14:25,671 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2026-03-27 11:14:25,672 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-9103976.pdf successfully moved to /Volumes/Data/Projects/Gem Tender Management/data/Tenders/GEM-2026-B-7341334.
+2026-03-27 11:14:25,971 - GeM-Bidding-Data-Log - INFO - Data of GEM-2026-B-7341334 inserted successfully.
+2026-03-27 11:14:26,194 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2026-B-7367283
+2026-03-27 11:14:27,438 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2026-03-27 11:14:27,439 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-9134593.pdf successfully moved to /Volumes/Data/Projects/Gem Tender Management/data/Tenders/GEM-2026-B-7367283.
+2026-03-27 11:14:27,701 - GeM-Bidding-Data-Log - INFO - Data of GEM-2026-B-7367283 inserted successfully.
+2026-03-27 11:14:28,067 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2026-B-7354484
+2026-03-27 11:14:28,235 - GeM-Bidding-Data-Log - INFO - Skipping GEM-2026-B-7354484 — keyword "CCTV" not a whole-word match in items. Downloading bid file only.
+2026-03-27 11:14:29,285 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2026-03-27 11:14:29,286 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-9119273.pdf successfully moved to /Volumes/Data/Projects/Gem Tender Management/data/Tenders/Rejected/GEM-2026-B-7354484.
+2026-03-27 11:14:29,437 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2026-B-7367852
+2026-03-27 11:14:29,634 - GeM-Bidding-Data-Log - INFO - Skipping GEM-2026-B-7367852 — keyword "CCTV" not a whole-word match in items. Downloading bid file only.
+2026-03-27 11:14:30,703 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2026-03-27 11:14:30,704 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-9135229.pdf successfully moved to /Volumes/Data/Projects/Gem Tender Management/data/Tenders/Rejected/GEM-2026-B-7367852.
+2026-03-27 11:14:30,928 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2026-B-7363703
+2026-03-27 11:14:32,180 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2026-03-27 11:14:32,180 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-9130428.pdf successfully moved to /Volumes/Data/Projects/Gem Tender Management/data/Tenders/GEM-2026-B-7363703.
+2026-03-27 11:14:32,461 - GeM-Bidding-Data-Log - INFO - Data of GEM-2026-B-7363703 inserted successfully.
+2026-03-27 11:14:32,904 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2026-B-7353522
+2026-03-27 11:14:33,074 - GeM-Bidding-Data-Log - INFO - Skipping GEM-2026-B-7353522 — keyword "CCTV" not a whole-word match in items. Downloading bid file only.
+2026-03-27 11:14:35,132 - GeM-Bidding-Data-Log - INFO - Download completed in 1 seconds.
+2026-03-27 11:14:35,132 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-9118123.pdf successfully moved to /Volumes/Data/Projects/Gem Tender Management/data/Tenders/Rejected/GEM-2026-B-7353522.
+2026-03-27 11:14:35,278 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2026-B-7283931
+2026-03-27 11:14:36,553 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2026-03-27 11:14:36,554 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-9037091.pdf successfully moved to /Volumes/Data/Projects/Gem Tender Management/data/Tenders/GEM-2026-B-7283931.
+2026-03-27 11:14:36,791 - GeM-Bidding-Data-Log - INFO - Data of GEM-2026-B-7283931 inserted successfully.
+2026-03-27 11:14:36,842 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2026-B-7367773
+2026-03-27 11:14:38,086 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2026-03-27 11:14:38,087 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-9135133.pdf successfully moved to /Volumes/Data/Projects/Gem Tender Management/data/Tenders/GEM-2026-B-7367773.
+2026-03-27 11:14:38,332 - GeM-Bidding-Data-Log - INFO - Data of GEM-2026-B-7367773 inserted successfully.
+2026-03-27 11:14:38,513 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2026-B-7298030
+2026-03-27 11:14:39,750 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2026-03-27 11:14:39,750 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-9052984.pdf successfully moved to /Volumes/Data/Projects/Gem Tender Management/data/Tenders/GEM-2026-B-7298030.
+2026-03-27 11:14:40,021 - GeM-Bidding-Data-Log - INFO - Data of GEM-2026-B-7298030 inserted successfully.
+2026-03-27 11:14:43,443 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2026-B-7366520
+2026-03-27 11:14:43,601 - GeM-Bidding-Data-Log - INFO - Skipping GEM-2026-B-7366520 — keyword "CCTV" not a whole-word match in items. Downloading bid file only.
+2026-03-27 11:14:44,688 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2026-03-27 11:14:44,690 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-9133735.pdf successfully moved to /Volumes/Data/Projects/Gem Tender Management/data/Tenders/Rejected/GEM-2026-B-7366520.
+2026-03-27 11:14:45,911 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2026-B-7286916
+2026-03-27 11:14:47,135 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2026-03-27 11:14:47,135 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-9040425.pdf successfully moved to /Volumes/Data/Projects/Gem Tender Management/data/Tenders/GEM-2026-B-7286916.
+2026-03-27 11:14:47,411 - GeM-Bidding-Data-Log - INFO - Data of GEM-2026-B-7286916 inserted successfully.
+2026-03-27 11:14:52,090 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2026-B-7364157
+2026-03-27 11:14:53,351 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2026-03-27 11:14:53,351 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-9130986.pdf successfully moved to /Volumes/Data/Projects/Gem Tender Management/data/Tenders/GEM-2026-B-7364157.
+2026-03-27 11:14:53,637 - GeM-Bidding-Data-Log - INFO - Data of GEM-2026-B-7364157 inserted successfully.
+2026-03-27 11:14:53,782 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2026-B-7341836
+2026-03-27 11:14:55,017 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2026-03-27 11:14:55,017 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-9104569.pdf successfully moved to /Volumes/Data/Projects/Gem Tender Management/data/Tenders/GEM-2026-B-7341836.
+2026-03-27 11:14:55,271 - GeM-Bidding-Data-Log - INFO - Data of GEM-2026-B-7341836 inserted successfully.
+2026-03-27 11:14:58,695 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2026-B-7341754
+2026-03-27 11:14:59,984 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2026-03-27 11:14:59,984 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-9104477.pdf successfully moved to /Volumes/Data/Projects/Gem Tender Management/data/Tenders/GEM-2026-B-7341754.
+2026-03-27 11:15:00,246 - GeM-Bidding-Data-Log - INFO - Data of GEM-2026-B-7341754 inserted successfully.
+2026-03-27 11:15:03,295 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2025-B-6980284
+2026-03-27 11:15:03,461 - GeM-Bidding-Data-Log - INFO - Skipping GEM-2025-B-6980284 — keyword "CCTV" not a whole-word match in items. Downloading bid file only.
+2026-03-27 11:15:04,536 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2026-03-27 11:15:04,537 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-8690629.pdf successfully moved to /Volumes/Data/Projects/Gem Tender Management/data/Tenders/Rejected/GEM-2025-B-6980284.
+2026-03-27 11:15:04,680 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2026-B-7370691
+2026-03-27 11:15:05,905 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2026-03-27 11:15:05,906 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-9138477.pdf successfully moved to /Volumes/Data/Projects/Gem Tender Management/data/Tenders/GEM-2026-B-7370691.
+2026-03-27 11:15:06,167 - GeM-Bidding-Data-Log - INFO - Data of GEM-2026-B-7370691 inserted successfully.
+2026-03-27 11:15:06,330 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2026-B-7189298
+2026-03-27 11:15:07,593 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2026-03-27 11:15:07,595 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-8929380.pdf successfully moved to /Volumes/Data/Projects/Gem Tender Management/data/Tenders/GEM-2026-B-7189298.
+2026-03-27 11:15:07,876 - GeM-Bidding-Data-Log - INFO - Data of GEM-2026-B-7189298 inserted successfully.
+2026-03-27 11:15:07,924 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2026-B-7315576
+2026-03-27 11:15:09,168 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2026-03-27 11:15:09,169 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-9073437.pdf successfully moved to /Volumes/Data/Projects/Gem Tender Management/data/Tenders/GEM-2026-B-7315576.
+2026-03-27 11:15:09,448 - GeM-Bidding-Data-Log - INFO - Data of GEM-2026-B-7315576 inserted successfully.
+2026-03-27 11:15:09,499 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2026-B-7329558
+2026-03-27 11:15:10,718 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2026-03-27 11:15:10,718 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-9089849.pdf successfully moved to /Volumes/Data/Projects/Gem Tender Management/data/Tenders/GEM-2026-B-7329558.
+2026-03-27 11:15:10,976 - GeM-Bidding-Data-Log - INFO - Data of GEM-2026-B-7329558 inserted successfully.
+2026-03-27 11:15:13,881 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2026-03-27 11:15:13,882 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-Corr-9089849-1.pdf moved to /Volumes/Data/Projects/Gem Tender Management/data/Tenders/GEM-2026-B-7329558.
+2026-03-27 11:15:14,761 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2026-B-7369851
+2026-03-27 11:15:15,991 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2026-03-27 11:15:15,991 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-9137507.pdf successfully moved to /Volumes/Data/Projects/Gem Tender Management/data/Tenders/GEM-2026-B-7369851.
+2026-03-27 11:15:16,296 - GeM-Bidding-Data-Log - INFO - Data of GEM-2026-B-7369851 inserted successfully.
+2026-03-27 11:15:17,605 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2026-B-7186699
+2026-03-27 11:15:17,779 - GeM-Bidding-Data-Log - INFO - Skipping GEM-2026-B-7186699 — keyword "CCTV" not a whole-word match in items. Downloading bid file only.
+2026-03-27 11:15:18,938 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2026-03-27 11:15:18,938 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-8926443.pdf successfully moved to /Volumes/Data/Projects/Gem Tender Management/data/Tenders/Rejected/GEM-2026-B-7186699.
+2026-03-27 11:15:19,092 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2026-B-7370672
+2026-03-27 11:15:19,268 - GeM-Bidding-Data-Log - INFO - Skipping GEM-2026-B-7370672 — keyword "CCTV" not a whole-word match in items. Downloading bid file only.
+2026-03-27 11:15:20,331 - GeM-Bidding-Data-Log - ERROR - File 'GeM-Bidding-9138455.pdf' not found, retrying download...
+2026-03-27 11:15:21,383 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2026-03-27 11:15:21,385 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-9138455.pdf successfully moved to /Volumes/Data/Projects/Gem Tender Management/data/Tenders/Rejected/GEM-2026-B-7370672.
+2026-03-27 11:15:21,882 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2026-B-7370460
+2026-03-27 11:15:23,113 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2026-03-27 11:15:23,114 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-9138198.pdf successfully moved to /Volumes/Data/Projects/Gem Tender Management/data/Tenders/GEM-2026-B-7370460.
+2026-03-27 11:15:23,396 - GeM-Bidding-Data-Log - INFO - Data of GEM-2026-B-7370460 inserted successfully.
+2026-03-27 11:15:23,601 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2026-B-7371014
+2026-03-27 11:15:23,759 - GeM-Bidding-Data-Log - INFO - Skipping GEM-2026-B-7371014 — keyword "CCTV" not a whole-word match in items. Downloading bid file only.
+2026-03-27 11:15:24,816 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2026-03-27 11:15:24,817 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-9138857.pdf successfully moved to /Volumes/Data/Projects/Gem Tender Management/data/Tenders/Rejected/GEM-2026-B-7371014.
+2026-03-27 11:15:24,970 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2026-B-7370833
+2026-03-27 11:15:25,121 - GeM-Bidding-Data-Log - INFO - Skipping GEM-2026-B-7370833 — keyword "CCTV" not a whole-word match in items. Downloading bid file only.
+2026-03-27 11:15:26,184 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2026-03-27 11:15:26,185 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-9138646.pdf successfully moved to /Volumes/Data/Projects/Gem Tender Management/data/Tenders/Rejected/GEM-2026-B-7370833.
+2026-03-27 11:15:26,337 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2026-B-7302442
+2026-03-27 11:15:27,556 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2026-03-27 11:15:27,557 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-9058001.pdf successfully moved to /Volumes/Data/Projects/Gem Tender Management/data/Tenders/GEM-2026-B-7302442.
+2026-03-27 11:15:27,835 - GeM-Bidding-Data-Log - INFO - Data of GEM-2026-B-7302442 inserted successfully.
+2026-03-27 11:15:31,628 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2026-B-7358280
+2026-03-27 11:15:32,913 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2026-03-27 11:15:32,913 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-9123740.pdf successfully moved to /Volumes/Data/Projects/Gem Tender Management/data/Tenders/GEM-2026-B-7358280.
+2026-03-27 11:15:33,180 - GeM-Bidding-Data-Log - INFO - Data of GEM-2026-B-7358280 inserted successfully.
+2026-03-27 11:15:33,355 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2026-B-7330887
+2026-03-27 11:15:34,588 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2026-03-27 11:15:34,589 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-9091392.pdf successfully moved to /Volumes/Data/Projects/Gem Tender Management/data/Tenders/GEM-2026-B-7330887.
+2026-03-27 11:15:34,833 - GeM-Bidding-Data-Log - INFO - Data of GEM-2026-B-7330887 inserted successfully.
+2026-03-27 11:15:37,833 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2026-B-7384363
+2026-03-27 11:15:39,071 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2026-03-27 11:15:39,073 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-9154785.pdf successfully moved to /Volumes/Data/Projects/Gem Tender Management/data/Tenders/GEM-2026-B-7384363.
+2026-03-27 11:15:39,335 - GeM-Bidding-Data-Log - INFO - Data of GEM-2026-B-7384363 inserted successfully.
+2026-03-27 11:15:39,465 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2025-B-7055219
+2026-03-27 11:15:40,692 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2026-03-27 11:15:40,692 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-8775649.pdf successfully moved to /Volumes/Data/Projects/Gem Tender Management/data/Tenders/GEM-2025-B-7055219.
+2026-03-27 11:15:40,935 - GeM-Bidding-Data-Log - INFO - Data of GEM-2025-B-7055219 inserted successfully.
+2026-03-27 11:15:42,041 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2026-B-7372424
+2026-03-27 11:15:42,205 - GeM-Bidding-Data-Log - INFO - Skipping GEM-2026-B-7372424 — keyword "CCTV" not a whole-word match in items. Downloading bid file only.
+2026-03-27 11:15:43,266 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2026-03-27 11:15:43,266 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-9140408.pdf successfully moved to /Volumes/Data/Projects/Gem Tender Management/data/Tenders/Rejected/GEM-2026-B-7372424.
+2026-03-27 11:15:43,474 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2026-B-7355004
+2026-03-27 11:15:43,636 - GeM-Bidding-Data-Log - INFO - Skipping GEM-2026-B-7355004 — keyword "CCTV" not a whole-word match in items. Downloading bid file only.
+2026-03-27 11:15:44,708 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2026-03-27 11:15:44,709 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-9119901.pdf successfully moved to /Volumes/Data/Projects/Gem Tender Management/data/Tenders/Rejected/GEM-2026-B-7355004.
+2026-03-27 11:15:44,854 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2026-B-7331422
+2026-03-27 11:15:45,022 - GeM-Bidding-Data-Log - INFO - Skipping GEM-2026-B-7331422 — keyword "CCTV" not a whole-word match in items. Downloading bid file only.
+2026-03-27 11:15:46,076 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2026-03-27 11:15:46,077 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-9092008.pdf successfully moved to /Volumes/Data/Projects/Gem Tender Management/data/Tenders/Rejected/GEM-2026-B-7331422.
+2026-03-27 11:15:46,242 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2026-B-7287964
+2026-03-27 11:15:47,479 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2026-03-27 11:15:47,480 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-9041602.pdf successfully moved to /Volumes/Data/Projects/Gem Tender Management/data/Tenders/GEM-2026-B-7287964.
+2026-03-27 11:15:47,766 - GeM-Bidding-Data-Log - INFO - Data of GEM-2026-B-7287964 inserted successfully.
+2026-03-27 11:15:54,240 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2026-B-7327043
+2026-03-27 11:15:54,409 - GeM-Bidding-Data-Log - INFO - Skipping GEM-2026-B-7327043 — keyword "CCTV" not a whole-word match in items. Downloading bid file only.
+2026-03-27 11:15:55,462 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2026-03-27 11:15:55,463 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-9086935.pdf successfully moved to /Volumes/Data/Projects/Gem Tender Management/data/Tenders/Rejected/GEM-2026-B-7327043.
+2026-03-27 11:15:55,642 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2026-B-7326887
+2026-03-27 11:15:55,800 - GeM-Bidding-Data-Log - INFO - Skipping GEM-2026-B-7326887 — keyword "CCTV" not a whole-word match in items. Downloading bid file only.
+2026-03-27 11:15:56,856 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2026-03-27 11:15:56,857 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-9086763.pdf successfully moved to /Volumes/Data/Projects/Gem Tender Management/data/Tenders/Rejected/GEM-2026-B-7326887.
+2026-03-27 11:15:57,038 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2026-B-7348364
+2026-03-27 11:15:58,271 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2026-03-27 11:15:58,272 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-9112127.pdf successfully moved to /Volumes/Data/Projects/Gem Tender Management/data/Tenders/GEM-2026-B-7348364.
+2026-03-27 11:15:58,563 - GeM-Bidding-Data-Log - INFO - Data of GEM-2026-B-7348364 inserted successfully.
+2026-03-27 11:15:58,731 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2026-B-7334495
+2026-03-27 11:15:58,892 - GeM-Bidding-Data-Log - INFO - Skipping GEM-2026-B-7334495 — keyword "CCTV" not a whole-word match in items. Downloading bid file only.
+2026-03-27 11:15:59,948 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2026-03-27 11:15:59,948 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-9095849.pdf successfully moved to /Volumes/Data/Projects/Gem Tender Management/data/Tenders/Rejected/GEM-2026-B-7334495.
+2026-03-27 11:16:00,095 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2026-B-7372621
+2026-03-27 11:16:01,343 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2026-03-27 11:16:01,344 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-9140629.pdf successfully moved to /Volumes/Data/Projects/Gem Tender Management/data/Tenders/GEM-2026-B-7372621.
+2026-03-27 11:16:01,608 - GeM-Bidding-Data-Log - INFO - Data of GEM-2026-B-7372621 inserted successfully.
+2026-03-27 11:16:01,876 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2026-B-7371172
+2026-03-27 11:16:02,036 - GeM-Bidding-Data-Log - INFO - Skipping GEM-2026-B-7371172 — keyword "CCTV" not a whole-word match in items. Downloading bid file only.
+2026-03-27 11:16:03,093 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2026-03-27 11:16:03,093 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-9139022.pdf successfully moved to /Volumes/Data/Projects/Gem Tender Management/data/Tenders/Rejected/GEM-2026-B-7371172.
+2026-03-27 11:16:04,319 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2026-B-7218565
+2026-03-27 11:16:05,556 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2026-03-27 11:16:05,557 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-8962694.pdf successfully moved to /Volumes/Data/Projects/Gem Tender Management/data/Tenders/GEM-2026-B-7218565.
+2026-03-27 11:16:05,833 - GeM-Bidding-Data-Log - INFO - Data of GEM-2026-B-7218565 inserted successfully.
+2026-03-27 11:16:06,010 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2026-B-7214982
+2026-03-27 11:16:07,232 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2026-03-27 11:16:07,233 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-8958661.pdf successfully moved to /Volumes/Data/Projects/Gem Tender Management/data/Tenders/GEM-2026-B-7214982.
+2026-03-27 11:16:07,533 - GeM-Bidding-Data-Log - INFO - Data of GEM-2026-B-7214982 inserted successfully.
+2026-03-27 11:16:07,709 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2026-B-7313444
+2026-03-27 11:16:07,870 - GeM-Bidding-Data-Log - INFO - Skipping GEM-2026-B-7313444 — keyword "CCTV" not a whole-word match in items. Downloading bid file only.
+2026-03-27 11:16:08,942 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2026-03-27 11:16:08,942 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-9070987.pdf successfully moved to /Volumes/Data/Projects/Gem Tender Management/data/Tenders/Rejected/GEM-2026-B-7313444.
+2026-03-27 11:16:09,099 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2026-B-7299442
+2026-03-27 11:16:10,328 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2026-03-27 11:16:10,328 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-9054654.pdf successfully moved to /Volumes/Data/Projects/Gem Tender Management/data/Tenders/GEM-2026-B-7299442.
+2026-03-27 11:16:10,613 - GeM-Bidding-Data-Log - INFO - Data of GEM-2026-B-7299442 inserted successfully.
+2026-03-27 11:16:14,119 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2026-B-7213110
+2026-03-27 11:16:15,383 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2026-03-27 11:16:15,385 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-8956481.pdf successfully moved to /Volumes/Data/Projects/Gem Tender Management/data/Tenders/GEM-2026-B-7213110.
+2026-03-27 11:16:15,718 - GeM-Bidding-Data-Log - INFO - Data of GEM-2026-B-7213110 inserted successfully.
+2026-03-27 11:16:18,099 - GeM-Bidding-Data-Log - ERROR - Error processing bid at index 6: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=146.0.7680.165)
+Stacktrace:
+0   chromedriver                        0x000000010069b99c cxxbridge1$str$ptr + 3160104
+1   chromedriver                        0x0000000100693a28 cxxbridge1$str$ptr + 3127476
+2   chromedriver                        0x0000000100167904 _RNvCskE0kXQ3GIWk_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 75036
+3   chromedriver                        0x00000001001403e0 chromedriver + 164832
+4   chromedriver                        0x00000001001d8288 _RNvCskE0kXQ3GIWk_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 536224
+5   chromedriver                        0x00000001001ee004 _RNvCskE0kXQ3GIWk_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 625692
+6   chromedriver                        0x00000001001a51a0 _RNvCskE0kXQ3GIWk_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 327096
+7   chromedriver                        0x000000010065a220 cxxbridge1$str$ptr + 2891948
+8   chromedriver                        0x000000010065d910 cxxbridge1$str$ptr + 2906012
+9   chromedriver                        0x000000010063f5d8 cxxbridge1$str$ptr + 2782308
+10  chromedriver                        0x000000010065e194 cxxbridge1$str$ptr + 2908192
+11  chromedriver                        0x0000000100630090 cxxbridge1$str$ptr + 2719516
+12  chromedriver                        0x0000000100682b30 cxxbridge1$str$ptr + 3058108
+13  chromedriver                        0x0000000100682cac cxxbridge1$str$ptr + 3058488
+14  chromedriver                        0x0000000100693680 cxxbridge1$str$ptr + 3126540
+15  libsystem_pthread.dylib             0x0000000181753bc8 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000018174eb80 thread_start + 8
+
+2026-03-27 11:16:18,234 - GeM-Bidding-Data-Log - ERROR - Error processing bid at index 7: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=146.0.7680.165)
+Stacktrace:
+0   chromedriver                        0x000000010069b99c cxxbridge1$str$ptr + 3160104
+1   chromedriver                        0x0000000100693a28 cxxbridge1$str$ptr + 3127476
+2   chromedriver                        0x0000000100167904 _RNvCskE0kXQ3GIWk_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 75036
+3   chromedriver                        0x00000001001403e0 chromedriver + 164832
+4   chromedriver                        0x00000001001d8288 _RNvCskE0kXQ3GIWk_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 536224
+5   chromedriver                        0x00000001001ee004 _RNvCskE0kXQ3GIWk_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 625692
+6   chromedriver                        0x00000001001a51a0 _RNvCskE0kXQ3GIWk_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 327096
+7   chromedriver                        0x000000010065a220 cxxbridge1$str$ptr + 2891948
+8   chromedriver                        0x000000010065d910 cxxbridge1$str$ptr + 2906012
+9   chromedriver                        0x000000010063f5d8 cxxbridge1$str$ptr + 2782308
+10  chromedriver                        0x000000010065e194 cxxbridge1$str$ptr + 2908192
+11  chromedriver                        0x0000000100630090 cxxbridge1$str$ptr + 2719516
+12  chromedriver                        0x0000000100682b30 cxxbridge1$str$ptr + 3058108
+13  chromedriver                        0x0000000100682cac cxxbridge1$str$ptr + 3058488
+14  chromedriver                        0x0000000100693680 cxxbridge1$str$ptr + 3126540
+15  libsystem_pthread.dylib             0x0000000181753bc8 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000018174eb80 thread_start + 8
+
+2026-03-27 11:16:18,409 - GeM-Bidding-Data-Log - ERROR - Error processing bid at index 8: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=146.0.7680.165)
+Stacktrace:
+0   chromedriver                        0x000000010069b99c cxxbridge1$str$ptr + 3160104
+1   chromedriver                        0x0000000100693a28 cxxbridge1$str$ptr + 3127476
+2   chromedriver                        0x0000000100167904 _RNvCskE0kXQ3GIWk_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 75036
+3   chromedriver                        0x00000001001403e0 chromedriver + 164832
+4   chromedriver                        0x00000001001d8288 _RNvCskE0kXQ3GIWk_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 536224
+5   chromedriver                        0x00000001001ee004 _RNvCskE0kXQ3GIWk_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 625692
+6   chromedriver                        0x00000001001a51a0 _RNvCskE0kXQ3GIWk_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 327096
+7   chromedriver                        0x000000010065a220 cxxbridge1$str$ptr + 2891948
+8   chromedriver                        0x000000010065d910 cxxbridge1$str$ptr + 2906012
+9   chromedriver                        0x000000010063f5d8 cxxbridge1$str$ptr + 2782308
+10  chromedriver                        0x000000010065e194 cxxbridge1$str$ptr + 2908192
+11  chromedriver                        0x0000000100630090 cxxbridge1$str$ptr + 2719516
+12  chromedriver                        0x0000000100682b30 cxxbridge1$str$ptr + 3058108
+13  chromedriver                        0x0000000100682cac cxxbridge1$str$ptr + 3058488
+14  chromedriver                        0x0000000100693680 cxxbridge1$str$ptr + 3126540
+15  libsystem_pthread.dylib             0x0000000181753bc8 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000018174eb80 thread_start + 8
+
+2026-03-27 11:16:18,539 - GeM-Bidding-Data-Log - ERROR - Error processing bid at index 9: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=146.0.7680.165)
+Stacktrace:
+0   chromedriver                        0x000000010069b99c cxxbridge1$str$ptr + 3160104
+1   chromedriver                        0x0000000100693a28 cxxbridge1$str$ptr + 3127476
+2   chromedriver                        0x0000000100167904 _RNvCskE0kXQ3GIWk_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 75036
+3   chromedriver                        0x00000001001403e0 chromedriver + 164832
+4   chromedriver                        0x00000001001d8288 _RNvCskE0kXQ3GIWk_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 536224
+5   chromedriver                        0x00000001001ee004 _RNvCskE0kXQ3GIWk_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 625692
+6   chromedriver                        0x00000001001a51a0 _RNvCskE0kXQ3GIWk_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 327096
+7   chromedriver                        0x000000010065a220 cxxbridge1$str$ptr + 2891948
+8   chromedriver                        0x000000010065d910 cxxbridge1$str$ptr + 2906012
+9   chromedriver                        0x000000010063f5d8 cxxbridge1$str$ptr + 2782308
+10  chromedriver                        0x000000010065e194 cxxbridge1$str$ptr + 2908192
+11  chromedriver                        0x0000000100630090 cxxbridge1$str$ptr + 2719516
+12  chromedriver                        0x0000000100682b30 cxxbridge1$str$ptr + 3058108
+13  chromedriver                        0x0000000100682cac cxxbridge1$str$ptr + 3058488
+14  chromedriver                        0x0000000100693680 cxxbridge1$str$ptr + 3126540
+15  libsystem_pthread.dylib             0x0000000181753bc8 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000018174eb80 thread_start + 8
+
+2026-03-27 11:16:18,682 - GeM-Bidding-Data-Log - ERROR - Error processing bid at index 10: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=146.0.7680.165)
+Stacktrace:
+0   chromedriver                        0x000000010069b99c cxxbridge1$str$ptr + 3160104
+1   chromedriver                        0x0000000100693a28 cxxbridge1$str$ptr + 3127476
+2   chromedriver                        0x0000000100167904 _RNvCskE0kXQ3GIWk_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 75036
+3   chromedriver                        0x00000001001403e0 chromedriver + 164832
+4   chromedriver                        0x00000001001d8288 _RNvCskE0kXQ3GIWk_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 536224
+5   chromedriver                        0x00000001001ee004 _RNvCskE0kXQ3GIWk_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 625692
+6   chromedriver                        0x00000001001a51a0 _RNvCskE0kXQ3GIWk_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 327096
+7   chromedriver                        0x000000010065a220 cxxbridge1$str$ptr + 2891948
+8   chromedriver                        0x000000010065d910 cxxbridge1$str$ptr + 2906012
+9   chromedriver                        0x000000010063f5d8 cxxbridge1$str$ptr + 2782308
+10  chromedriver                        0x000000010065e194 cxxbridge1$str$ptr + 2908192
+11  chromedriver                        0x0000000100630090 cxxbridge1$str$ptr + 2719516
+12  chromedriver                        0x0000000100682b30 cxxbridge1$str$ptr + 3058108
+13  chromedriver                        0x0000000100682cac cxxbridge1$str$ptr + 3058488
+14  chromedriver                        0x0000000100693680 cxxbridge1$str$ptr + 3126540
+15  libsystem_pthread.dylib             0x0000000181753bc8 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000018174eb80 thread_start + 8
+
+2026-03-27 11:16:18,828 - GeM-Bidding-Data-Log - ERROR - Error processing bid at index 11: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=146.0.7680.165)
+Stacktrace:
+0   chromedriver                        0x000000010069b99c cxxbridge1$str$ptr + 3160104
+1   chromedriver                        0x0000000100693a28 cxxbridge1$str$ptr + 3127476
+2   chromedriver                        0x0000000100167904 _RNvCskE0kXQ3GIWk_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 75036
+3   chromedriver                        0x00000001001403e0 chromedriver + 164832
+4   chromedriver                        0x00000001001d8288 _RNvCskE0kXQ3GIWk_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 536224
+5   chromedriver                        0x00000001001ee004 _RNvCskE0kXQ3GIWk_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 625692
+6   chromedriver                        0x00000001001a51a0 _RNvCskE0kXQ3GIWk_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 327096
+7   chromedriver                        0x000000010065a220 cxxbridge1$str$ptr + 2891948
+8   chromedriver                        0x000000010065d910 cxxbridge1$str$ptr + 2906012
+9   chromedriver                        0x000000010063f5d8 cxxbridge1$str$ptr + 2782308
+10  chromedriver                        0x000000010065e194 cxxbridge1$str$ptr + 2908192
+11  chromedriver                        0x0000000100630090 cxxbridge1$str$ptr + 2719516
+12  chromedriver                        0x0000000100682b30 cxxbridge1$str$ptr + 3058108
+13  chromedriver                        0x0000000100682cac cxxbridge1$str$ptr + 3058488
+14  chromedriver                        0x0000000100693680 cxxbridge1$str$ptr + 3126540
+15  libsystem_pthread.dylib             0x0000000181753bc8 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000018174eb80 thread_start + 8
+
