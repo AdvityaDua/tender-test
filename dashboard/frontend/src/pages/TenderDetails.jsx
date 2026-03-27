@@ -1,14 +1,14 @@
 import React, { useState, useEffect } from 'react';
 import { useParams, useNavigate } from 'react-router-dom';
 import axios from 'axios';
-import { 
-  ArrowLeft, FileText, Calendar, MapPin, Package, 
-  History, CheckCircle2, AlertTriangle, FileUp, 
+import {
+  ArrowLeft, FileText, Calendar, MapPin, Package,
+  History, CheckCircle2, AlertTriangle, FileUp,
   Save, X, ChevronRight, ExternalLink, Download, ClipboardList
 } from 'lucide-react';
 import { format } from 'date-fns';
 
-const API_BASE = "http://localhost:5001/api";
+const API_BASE = "http://192.168.1.15:5001/api";
 
 const TenderDetails = () => {
   const { bidNo } = useParams();
@@ -81,7 +81,7 @@ const TenderDetails = () => {
               <ClipboardList size={20} className="text-primary-600" />
               Tender Information
             </h3>
-            
+
             <div className="grid grid-cols-2 gap-x-12 gap-y-8">
               <InfoItem icon={Calendar} label="Start Date" value={tender.start_date} />
               <InfoItem icon={Calendar} label="End Date" value={tender.end_date} />
@@ -134,11 +134,10 @@ const TenderDetails = () => {
                       key={s}
                       onClick={() => handleStatusChange(s)}
                       disabled={updating || tender.status === s}
-                      className={`flex items-center justify-between w-full p-3 rounded-lg border text-sm font-medium transition-all ${
-                        tender.status === s 
-                        ? 'bg-primary-600 text-white border-primary-600'
-                        : 'bg-white text-slate-600 border-slate-200 hover:border-primary-400'
-                      }`}
+                      className={`flex items-center justify-between w-full p-3 rounded-lg border text-sm font-medium transition-all ${tender.status === s
+                          ? 'bg-primary-600 text-white border-primary-600'
+                          : 'bg-white text-slate-600 border-slate-200 hover:border-primary-400'
+                        }`}
                     >
                       <span className="capitalize">{s}</span>
                       {tender.status === s && <CheckCircle2 size={16} />}
@@ -148,7 +147,7 @@ const TenderDetails = () => {
               </div>
               <div className="pt-4 border-t border-slate-100">
                 <label className="text-sm font-semibold text-slate-500 mb-2 block">Add Work Note</label>
-                <textarea 
+                <textarea
                   className="w-full h-24 p-3 bg-slate-50 border border-slate-200 rounded-lg text-sm outline-none focus:ring-2 focus:ring-primary-500"
                   placeholder="Record what was done..."
                   value={note}
@@ -173,8 +172,8 @@ const TenderDetails = () => {
                         {file}
                       </span>
                     </div>
-                    <a 
-                      href={`http://localhost:5001/api/files/${encodeURIComponent(tender.bid_no.replace('/', '-'))}/${encodeURIComponent(file)}`}
+                    <a
+                      href={`http://192.168.1.150:5001/api/files/${encodeURIComponent(tender.bid_no.replace('/', '-'))}/${encodeURIComponent(file)}`}
                       target="_blank"
                       rel="noopener noreferrer"
                       className="p-1 text-slate-400 hover:text-primary-600 transition-colors"

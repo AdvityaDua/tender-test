@@ -4,7 +4,7 @@ import axios from 'axios';
 import { Calendar, MapPin, Package, ArrowRight, Loader2, Search, ClipboardList } from 'lucide-react';
 import { format } from 'date-fns';
 
-const API_BASE = "http://localhost:5001/api";
+const API_BASE = "http://192.168.1.15:5001/api";
 
 const Dashboard = () => {
   const [searchParams] = useSearchParams();
@@ -20,7 +20,7 @@ const Dashboard = () => {
     if (!dateStr) return new Date(0);
     // If it's already ISO format (like created_at), parse directly
     if (typeof dateStr === 'string' && dateStr.includes('T')) return new Date(dateStr);
-    
+
     try {
       // Split on any of: whitespace, dash, colon, or forward slash
       const parts = dateStr.split(/[\s\-:\/]+/);
@@ -34,7 +34,7 @@ const Dashboard = () => {
         const second = parseInt(parts[5], 10) || 0;
         return new Date(year, month, day, hour, minute, second);
       }
-    } catch (e) {}
+    } catch (e) { }
     return new Date(dateStr);
   };
 
@@ -44,7 +44,7 @@ const Dashboard = () => {
       try {
         const res = await axios.get(`${API_BASE}/tenders?status=${statusFilter}`);
         setTenders(res.data);
-        
+
         // Restore scroll position after data is loaded and rendered
         setTimeout(() => {
           const savedScroll = sessionStorage.getItem(`scroll_${statusFilter}`);
@@ -66,8 +66,8 @@ const Dashboard = () => {
     };
   }, [statusFilter]);
 
-  const filteredTenders = tenders.filter(t => 
-    t.bid_no.toLowerCase().includes(searchTerm.toLowerCase()) || 
+  const filteredTenders = tenders.filter(t =>
+    t.bid_no.toLowerCase().includes(searchTerm.toLowerCase()) ||
     t.items.toLowerCase().includes(searchTerm.toLowerCase()) ||
     t.department_name_and_address.toLowerCase().includes(searchTerm.toLowerCase())
   );
@@ -97,7 +97,7 @@ const Dashboard = () => {
         <div className="flex items-center gap-4">
           <div className="flex items-center gap-2 bg-white border border-slate-200 rounded-lg p-1 shadow-sm px-3 py-2">
             <span className="text-xs font-bold text-slate-400 uppercase">Sort By:</span>
-            <select 
+            <select
               className="text-sm font-medium bg-transparent outline-none cursor-pointer"
               value={sortBy}
               onChange={(e) => setSortBy(e.target.value)}
@@ -107,7 +107,7 @@ const Dashboard = () => {
               <option value="end_date">End Date</option>
               <option value="bid_no">Bid Number</option>
             </select>
-            <button 
+            <button
               onClick={() => setSortOrder(prev => prev === 'asc' ? 'desc' : 'asc')}
               className="ml-2 p-1 hover:bg-slate-100 rounded text-slate-500 transition-colors"
               title={sortOrder === 'asc' ? 'Ascending' : 'Descending'}
@@ -117,9 +117,9 @@ const Dashboard = () => {
           </div>
           <div className="relative">
             <Search className="absolute left-3 top-1/2 -translate-y-1/2 text-slate-400" size={18} />
-            <input 
-              type="text" 
-              placeholder="Search bid number or items..." 
+            <input
+              type="text"
+              placeholder="Search bid number or items..."
               className="pl-10 pr-4 py-2 bg-white border border-slate-200 rounded-lg focus:ring-2 focus:ring-primary-500 focus:border-transparent outline-none shadow-sm w-72"
               value={searchTerm}
               onChange={(e) => setSearchTerm(e.target.value)}
@@ -159,11 +159,11 @@ const Dashboard = () => {
                     </div>
                   </div>
                 </div>
-                
+
                 <h3 className="text-xl font-bold text-slate-800 mb-2 truncate group-hover:text-primary-600 transition-colors">
                   {tender.bid_no}
                 </h3>
-                
+
                 <p className="text-slate-600 line-clamp-2 mb-4 text-sm leading-relaxed">
                   {tender.items}
                 </p>
@@ -180,8 +180,8 @@ const Dashboard = () => {
                 </div>
               </div>
               <footer className="bg-slate-50 border-t border-slate-100 p-4 px-6 flex justify-end">
-                <Link 
-                  to={`/tender/${encodeURIComponent(tender.bid_no)}`} 
+                <Link
+                  to={`/tender/${encodeURIComponent(tender.bid_no)}`}
                   className="flex items-center gap-2 text-primary-600 font-semibold hover:text-primary-700 text-sm transition-colors"
                 >
                   View Details & Documents

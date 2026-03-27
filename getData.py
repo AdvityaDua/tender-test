@@ -25,7 +25,7 @@ load_dotenv()
 
 # Directory to download all the files and folder. Can be later changed to the server NAS or any other shared folder.
 # Use absolute path for cross-platform compatibility (Chrome requires absolute paths for downloads)
-directory = os.path.abspath("Tenders/")
+directory = os.path.abspath(os.getenv('DOWNLOAD_DIR'))
 
 
 # ─── PostgreSQL Setup ─────────────────────────────────────────────────────────
@@ -451,18 +451,22 @@ def CorrigendumSearch(driver, otherDetailsElement, conn, bidNo):
                     (bidNo, modifiedDate.strip())
                 )
                 if not cur.fetchone():
-                    extendedDate = modifiedContent.text
-                    openingDate = WebDriverWait(elements[i+1], 5).until(EC.presence_of_element_located((By.XPATH, './/div[2]'))).text
+                    extendedDate = modifiedContent.text.replace('Bid extended to ', '').strip()
+                    openingDate = WebDriverWait(elements[i+1], 5).until(EC.presence_of_element_located((By.XPATH, './/div[2]'))).text.replace('Bid Opening Date: ', '').strip()
                     cur.execute(
                         "INSERT INTO corrigendums (bid_no, modified_on, opening_date, extended_date) VALUES (%s, %s, %s, %s)",
-                        (bidNo, modifiedDate.replace('Modified On: ', '').strip(),
-                         openingDate.replace('Bid Opening Date: ', '').strip(),
-                         extendedDate.replace('Bid extended to ', '').strip())
+                        (bidNo, modifiedDate.replace('Modified On: ', '').strip(), openingDate, extendedDate)
+                    )
+                    # Update master tender end_date
+                    cur.execute(
+                        "UPDATE tenders SET end_date = %s WHERE bid_no = %s",
+                        (extendedDate, bidNo)
                     )
                     cur.execute(
                         'INSERT INTO updates (bid_no, status, "timestamp", message, "by") VALUES (%s, %s, %s, %s, %s)',
-                        (bidNo, 'new', datetime.now(), 'Bid Date has been modified.', 'GeM-BOT')
+                        (bidNo, 'updated', datetime.now(), f'Bid Date has been modified. New End Date: {extendedDate}', 'GeM-BOT')
                     )
+                    conn.commit()
                 # Skip the next element as it has already been processed
                 i += 2
             else:
@@ -501,7 +505,7 @@ chrome_options.add_argument("--disable-software-rasterizer")
 chrome_options.add_argument("--disable-accelerated-2d-canvas")
 chrome_options.add_argument("--disable-logging")
 chrome_options.add_argument("--v=1")
-# chrome_options.add_argument("--headless")  # Headless mode (optional for debugging)
+chrome_options.add_argument("--headless")  # Headless mode (optional for debugging)
 
 
 logger.info('GeM Data Capture Service started.')
@@ -606,13 +610,20 @@ for entry in search:
                     # ── Relevance Filter ──────────────────────────────────────
                     # Check if the keyword appears as a whole word (not a substring)
                     # e.g. keyword "LAN" matches "LAN cable" but NOT "plan"
-                    pattern = r'\b' + re.escape(keyword) + r'\b'
-                    is_relevant = bool(re.search(pattern, itemData, re.IGNORECASE))
-                    
+                    keyword_lower = keyword.lower()
+                    text_lower = itemData.lower()
+
+                    if keyword_lower in text_lower:
+                        pattern = r'\b' + re.escape(keyword) + r'\b'                        
+                        if not re.search(pattern, itemData, re.IGNORECASE):
+                            is_relevant = False
+                        else:
+                            is_relevant = True
+                    else:
+                        is_relevant = True
                     if not is_relevant:
                         logger.info(f'Skipping {bidNo} — keyword "{keyword}" not a whole-word match in items. Downloading bid file only.')
                         
-                        # Create folder for the REJECTED tender
                         rejected_base = os.path.join(directory, "Rejected")
                         bid_directory = os.path.join(rejected_base, bidNo.replace('/', '-'))
                         os.makedirs(bid_directory, exist_ok=True)

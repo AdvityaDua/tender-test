@@ -634,3 +634,51 @@ Stacktrace:
 15  libsystem_pthread.dylib             0x0000000181753bc8 _pthread_start + 136
 16  libsystem_pthread.dylib             0x000000018174eb80 thread_start + 8
 
+2026-03-27 22:16:38,154 - GeM-Bidding-Data-Log - INFO - GeM Data Capture Service started.
+2026-03-27 22:16:41,478 - GeM-Bidding-Data-Log - INFO - Connected to PostgreSQL and initialized schema.
+2026-03-27 22:16:43,807 - GeM-Bidding-Data-Log - INFO - Internet Connection Verified Successfully.
+2026-03-27 22:16:50,887 - GeM-Bidding-Data-Log - INFO - Starting the search of CCTV
+2026-03-27 22:16:52,056 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2025-B-6980284
+2026-03-27 22:16:53,979 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2026-03-27 22:16:53,980 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-8690629.pdf successfully moved to /Volumes/Data/Projects/Gem Tender Management/data/Tenders/GEM-2025-B-6980284.
+2026-03-27 22:16:54,811 - GeM-Bidding-Data-Log - INFO - Data of GEM-2025-B-6980284 inserted successfully.
+2026-03-27 22:17:04,040 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2026-B-7370691
+2026-03-27 22:17:04,343 - GeM-Bidding-Data-Log - INFO - Record Already Exists in Database.
+2026-03-27 22:17:04,629 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2026-B-7189298
+2026-03-27 22:17:05,060 - GeM-Bidding-Data-Log - INFO - Record Already Exists in Database.
+2026-03-27 22:17:05,112 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2026-B-7315576
+2026-03-27 22:17:05,517 - GeM-Bidding-Data-Log - INFO - Record Already Exists in Database.
+2026-03-27 22:17:05,552 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2026-B-7329558
+2026-03-27 22:17:05,984 - GeM-Bidding-Data-Log - INFO - Record Already Exists in Database.
+2026-03-27 22:17:09,960 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2026-B-7369851
+2026-03-27 22:17:10,756 - GeM-Bidding-Data-Log - INFO - Record Already Exists in Database.
+2026-03-27 22:17:11,387 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2026-B-7186699
+2026-03-27 22:17:13,576 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2026-03-27 22:17:13,577 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-8926443.pdf successfully moved to /Volumes/Data/Projects/Gem Tender Management/data/Tenders/GEM-2026-B-7186699.
+2026-03-27 22:17:14,109 - GeM-Bidding-Data-Log - INFO - Data of GEM-2026-B-7186699 inserted successfully.
+2026-03-27 22:17:14,141 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2026-B-7370672
+2026-03-27 22:17:17,184 - GeM-Bidding-Data-Log - INFO - Download completed in 1 seconds.
+2026-03-27 22:17:17,185 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-9138455.pdf successfully moved to /Volumes/Data/Projects/Gem Tender Management/data/Tenders/GEM-2026-B-7370672.
+2026-03-27 22:17:18,501 - GeM-Bidding-Data-Log - INFO - Data of GEM-2026-B-7370672 inserted successfully.
+2026-03-27 22:17:18,821 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2026-B-7370460
+2026-03-27 22:17:19,208 - GeM-Bidding-Data-Log - INFO - Record Already Exists in Database.
+2026-03-27 22:17:19,535 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2026-B-7371014
+2026-03-27 22:17:21,410 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2026-03-27 22:17:21,411 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-9138857.pdf successfully moved to /Volumes/Data/Projects/Gem Tender Management/data/Tenders/GEM-2026-B-7371014.
+2026-03-27 22:17:22,050 - GeM-Bidding-Data-Log - INFO - Data of GEM-2026-B-7371014 inserted successfully.
+2026-03-27 22:17:23,513 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2026-B-7370833
+2026-03-27 22:17:25,232 - GeM-Bidding-Data-Log - INFO - Download completed in 0 seconds.
+2026-03-27 22:17:25,233 - GeM-Bidding-Data-Log - INFO - File GeM-Bidding-9138646.pdf successfully moved to /Volumes/Data/Projects/Gem Tender Management/data/Tenders/GEM-2026-B-7370833.
+2026-03-27 22:17:25,611 - GeM-Bidding-Data-Log - INFO - Data of GEM-2026-B-7370833 inserted successfully.
+2026-03-27 22:17:25,902 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2026-B-7330887
+2026-03-27 22:17:26,167 - GeM-Bidding-Data-Log - INFO - Record Already Exists in Database.
+2026-03-27 22:17:27,998 - GeM-Bidding-Data-Log - INFO - Bid Number: GEM-2026-B-7302442
+2026-03-27 22:17:28,372 - GeM-Bidding-Data-Log - INFO - Record Already Exists in Database.
+2026-03-27 22:17:29,122 - GeM-Bidding-Data-Log - ERROR - Error processing bid at index 4: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+2026-03-27 22:17:29,512 - GeM-Bidding-Data-Log - ERROR - Error processing bid at index 5: HTTPConnectionPool(host='localhost', port=52910): Max retries exceeded with url: /session/b356f30dd2ea432a2548a69c41b9ae66/element (Caused by NewConnectionError("HTTPConnection(host='localhost', port=52910): Failed to establish a new connection: [Errno 61] Connection refused"))
+2026-03-27 22:17:29,915 - GeM-Bidding-Data-Log - ERROR - Error processing bid at index 6: HTTPConnectionPool(host='localhost', port=52910): Max retries exceeded with url: /session/b356f30dd2ea432a2548a69c41b9ae66/element (Caused by NewConnectionError("HTTPConnection(host='localhost', port=52910): Failed to establish a new connection: [Errno 61] Connection refused"))
+2026-03-27 22:17:30,083 - GeM-Bidding-Data-Log - ERROR - Error processing bid at index 7: HTTPConnectionPool(host='localhost', port=52910): Max retries exceeded with url: /session/b356f30dd2ea432a2548a69c41b9ae66/element (Caused by NewConnectionError("HTTPConnection(host='localhost', port=52910): Failed to establish a new connection: [Errno 61] Connection refused"))
+2026-03-27 22:17:30,388 - GeM-Bidding-Data-Log - ERROR - Error processing bid at index 8: HTTPConnectionPool(host='localhost', port=52910): Max retries exceeded with url: /session/b356f30dd2ea432a2548a69c41b9ae66/element (Caused by NewConnectionError("HTTPConnection(host='localhost', port=52910): Failed to establish a new connection: [Errno 61] Connection refused"))
+2026-03-27 22:17:30,518 - GeM-Bidding-Data-Log - ERROR - Error processing bid at index 9: HTTPConnectionPool(host='localhost', port=52910): Max retries exceeded with url: /session/b356f30dd2ea432a2548a69c41b9ae66/element (Caused by NewConnectionError("HTTPConnection(host='localhost', port=52910): Failed to establish a new connection: [Errno 61] Connection refused"))
+2026-03-27 22:17:30,908 - GeM-Bidding-Data-Log - ERROR - Error processing bid at index 10: HTTPConnectionPool(host='localhost', port=52910): Max retries exceeded with url: /session/b356f30dd2ea432a2548a69c41b9ae66/element (Caused by NewConnectionError("HTTPConnection(host='localhost', port=52910): Failed to establish a new connection: [Errno 61] Connection refused"))
+2026-03-27 22:17:31,060 - GeM-Bidding-Data-Log - ERROR - Error processing bid at index 11: HTTPConnectionPool(host='localhost', port=52910): Max retries exceeded with url: /session/b356f30dd2ea432a2548a69c41b9ae66/element (Caused by NewConnectionError("HTTPConnection(host='localhost', port=52910): Failed to establish a new connection: [Errno 61] Connection refused"))
