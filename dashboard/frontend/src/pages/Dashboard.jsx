@@ -4,7 +4,7 @@ import axios from 'axios';
 import { Calendar, MapPin, Package, ArrowRight, Loader2, Search, ClipboardList } from 'lucide-react';
 import { format } from 'date-fns';
 
-const API_BASE = "http://192.168.1.15:5001/api";
+const API_BASE = "/api";
 
 const Dashboard = () => {
   const [searchParams] = useSearchParams();

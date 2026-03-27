@@ -8,7 +8,7 @@ import {
 } from 'lucide-react';
 import { format } from 'date-fns';
 
-const API_BASE = "http://192.168.1.15:5001/api";
+const API_BASE = "/api";
 
 const TenderDetails = () => {
   const { bidNo } = useParams();
@@ -135,8 +135,8 @@ const TenderDetails = () => {
                       onClick={() => handleStatusChange(s)}
                       disabled={updating || tender.status === s}
                       className={`flex items-center justify-between w-full p-3 rounded-lg border text-sm font-medium transition-all ${tender.status === s
-                          ? 'bg-primary-600 text-white border-primary-600'
-                          : 'bg-white text-slate-600 border-slate-200 hover:border-primary-400'
+                        ? 'bg-primary-600 text-white border-primary-600'
+                        : 'bg-white text-slate-600 border-slate-200 hover:border-primary-400'
                         }`}
                     >
                       <span className="capitalize">{s}</span>
@@ -173,7 +173,7 @@ const TenderDetails = () => {
                       </span>
                     </div>
                     <a
-                      href={`http://192.168.1.150:5001/api/files/${encodeURIComponent(tender.bid_no.replace('/', '-'))}/${encodeURIComponent(file)}`}
+                      href={`/api/files/${encodeURIComponent(tender.bid_no.replace('/', '-'))}/${encodeURIComponent(file)}`}
                       target="_blank"
                       rel="noopener noreferrer"
                       className="p-1 text-slate-400 hover:text-primary-600 transition-colors"
