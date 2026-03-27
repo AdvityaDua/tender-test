@@ -5,5 +5,5 @@ __pycache__/
 .vscode/
 .idea/
 *.pyc
-
-dashboard/frontend/node_modules
+dashboard/frontend/node_modules/
+Tenders/*
